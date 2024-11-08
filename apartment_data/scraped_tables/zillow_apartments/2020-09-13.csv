@@ -1,0 +1,21 @@
+price,type,bathrooms,size,address,date
+"$2,195/mo",1bd,1ba,900sqft,"2416 Russell St, Berkeley, CA 94705",2020-09-13
+"$3,300/mo",2bds,1ba,950sqft,"2326 Prince St, Berkeley, CA 94705",2020-09-13
+"$3,495/mo",2bds,1.5ba,"1,300sqft","2777 9th St UNIT 106, Berkeley, CA 94710",2020-09-13
+"$2,300/mo",Studio,1ba,700sqft,"1015 Euclid Ave #3, Berkeley, CA 94708",2020-09-13
+"$2,400/mo",2bds,1ba,775sqft,"1817 7th St #2, Berkeley, CA 94710",2020-09-13
+"$1,700/mo",Studio,1ba,--sqft,"2315 Grant St #6, Berkeley, CA 94703",2020-09-13
+"$2,095/mo",1bd,1ba,700sqft,"1632 Russell St APT 3, Berkeley, CA 94703",2020-09-13
+"$2,450/mo",10bds,5ba,"3,904sqft","1736 Parker St, Berkeley, CA 94703",2020-09-13
+"$2,825/mo",2bds,1ba,800sqft,"1731 California St #4, Berkeley, CA 94703",2020-09-13
+"$2,600/mo",1bd,1ba,"2,352sqft","1440 Berkeley Way, Berkeley, CA 94702",2020-09-13
+"$3,750/mo",3bds,1ba,"1,135sqft","Lorina St, Berkeley, CA 94705",2020-09-13
+"$2,495/mo",1bd,1ba,--sqft,"22 Domingo Ave #105, Berkeley, CA 94705",2020-09-13
+"$2,600/mo",2bds,1ba,850sqft,"1522 Prince St #A, Berkeley, CA 94703",2020-09-13
+"$2,595/mo",1bd,1ba,--sqft,"1209 Ordway St #1, Albany, CA 94706",2020-09-13
+"$3,400/mo",3bds,1ba,--sqft,"3217 King St #3217, Berkeley, CA 94703",2020-09-13
+"$1,695/mo",Studio,1ba,423sqft,"Studio, 423 sqft, $1,695, 2378 Sacramento Street, Berkeley, CA 94702",2020-09-13
+"$2,695/mo",2bds,1ba,653sqft,"1649 Martin Luther King Jr Way APT 3, Berkeley, CA 94709",2020-09-13
+"$2,900/mo",2bds,1ba,700sqft,"1433 Berkeley Way #2, Berkeley, CA 94702",2020-09-13
+"$3,900/mo",3bds,2ba,850sqft,"1431 Berkeley Way #A, Berkeley, CA 94702",2020-09-13
+"$1,995/mo",1bd,1ba,650sqft,"1723 San Pablo Ave, Berkeley, CA 94702",2020-09-13

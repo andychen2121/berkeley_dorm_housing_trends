@@ -1,0 +1,17 @@
+price,type,bathrooms,size,address,date
+"$3,450/mo",3bds,1ba,--sqft,"1612 62nd St #5, Berkeley, CA 94703",2020-04-13
+"$2,700/mo",1bd,1ba,682sqft,"Le Conte Ave, Berkeley, CA 94709",2020-04-13
+"$2,800/mo",2bds,1ba,750sqft,"Milvia St, Berkeley, CA 94704",2020-04-13
+"$1,895/mo",Studio,1ba,--sqft,"Studio, $1,895, 1544 Addison St.",2020-04-13
+"$2,250/mo",1bd,1ba,600sqft,"2511 Prince St APT 2, Berkeley, CA 94705",2020-04-13
+"$2,699/mo",2bds,1ba,750sqft,"2119 Russell St, Berkeley, CA 94705",2020-04-13
+"$3,750/mo",2bds,1ba,900sqft,"2214 Durant Ave #4, Berkeley, CA 94704",2020-04-13
+"$2,450/mo",1bd,1ba,550sqft,"85 Parnassus Rd #B, Berkeley, CA 94708",2020-04-13
+"$2,700/mo",1bd,1ba,545sqft,"Regal Rd, Berkeley, CA 94708",2020-04-13
+"$2,100/mo",Studio,1ba,504sqft,"1245 Berkeley Way #B, Berkeley, CA 94702",2020-04-13
+"$2,700/mo",2bds,1ba,700sqft,"1709 Dwight Way #B, Berkeley, CA 94703",2020-04-13
+"$1,650/mo",Studio,1ba,550sqft,"2431 College Ave APT 6, Berkeley, CA 94704",2020-04-13
+"$4,800/mo",2bds,2ba,849sqft,"2628 Telegraph Ave APT 305, Berkeley, CA 94704",2020-04-13
+"$2,495/mo",1bd,1ba,750sqft,"Hillcrest Rd, Berkeley, CA 94705",2020-04-13
+"$2,000/mo",Studio,1ba,--sqft,"1803 Spruce St, Berkeley, CA 94709",2020-04-13
+"$2,950/mo",2bds,2ba,--sqft,"2124 Parker St APT 108, Berkeley, CA 94704",2020-04-13

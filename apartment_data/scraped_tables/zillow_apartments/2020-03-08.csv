@@ -1,0 +1,21 @@
+price,type,bathrooms,size,address,date
+"$7,019/mo",2bds,2.5ba,"1,256sqft","Berkeley Central, 2 Bedroom 2.5 Bath Penthouse",2020-03-08
+"$2,295/mo",1bd,1ba,--sqft,"2609 Mcgee Ave # B, Berkeley, CA 94703",2020-03-08
+"$2,995/mo",1bd,1ba,"1,500sqft","La Vereda Rd, Berkeley, CA 94709",2020-03-08
+"$1,375/mo",Studio,1ba,--sqft,"2132 Browning St APT D, Berkeley, CA 94702",2020-03-08
+"$10,000/mo",6bds,2ba,"1,750sqft","2440 Haste St # 38H, Berkeley, CA 94704",2020-03-08
+"$2,495/mo",1bd,1ba,--sqft,"2226 Channing Way APT 3, Berkeley, CA 94704",2020-03-08
+"$3,895/mo",3bds,--ba,--sqft,"3120 Telegraph Ave STE 6, Berkeley, CA 94705",2020-03-08
+"$2,895/mo",2bds,--ba,--sqft,"1618 Milvia St APT 2, Berkeley, CA 94709",2020-03-08
+"$2,600/mo",2bds,1ba,650sqft,"1735 San Lorenzo Ave # A, Berkeley, CA 94707",2020-03-08
+"$3,400/mo",3bds,1ba,--sqft,"2227 Bonar St APT B, Berkeley, CA 94702",2020-03-08
+"$1,700/mo",Studio,1ba,225sqft,"1634 Julia St APT B, Berkeley, CA 94703",2020-03-08
+"$1,800/mo",Studio,1ba,300sqft,"Oregon St, Berkeley, CA 94703",2020-03-08
+"$2,875/mo",1bd,1ba,375sqft,"1211 Talbot Ave # A, Berkeley, CA 94706",2020-03-08
+"$2,695/mo",2bds,1ba,--sqft,"2 bed, $2,695, 2",2020-03-08
+"$1,650/mo",Studio,1ba,--sqft,"Studio, $1,650, 108",2020-03-08
+"$3,150/mo",2bds,1ba,777sqft,"2 bed, $3,150, 4",2020-03-08
+"$4,195/mo",3bds,2ba,"1,370sqft","3 bed, 1370 sqft, $4,195, 2601 Sacramento St.",2020-03-08
+"$3,695/mo",3bds,1ba,--sqft,"3 bed, $3,695, G",2020-03-08
+"$2,995/mo",2bds,1ba,--sqft,"3105 Telegraph Ave # 1, Berkeley, CA 94705",2020-03-08
+"$3,195/mo",2bds,1ba,--sqft,"2521 Regent St APT 2, Berkeley, CA 94704",2020-03-08

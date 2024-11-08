@@ -1,0 +1,41 @@
+price,type,bathrooms,size,address,date
+"$1,950/mo","1bd,","1ba,",--sqft,"2338 Channing Way APT 5, Berkeley, CA 94704",2021-01-20
+"$2,195/mo","2bds,","1ba,",--sqft,"2914 Adeline St APT 4, Berkeley, CA 94703",2021-01-20
+"$1,845Studio","$2,789+2 bds","$4,025+3 bds","$6,295+5 bds","1122U | 1122 University Ave, Berkeley, CA",2021-01-20
+"$2,173+Studio","$2,378+1 bd","$3,106+2 bds",,"The Dwight | 2121 Dwight Way, Berkeley, CA",2021-01-20
+"$2,000+Studio","$4,900+3 bds",,,"Varsity Berkeley | 2024 Durant Ave, Berkeley, CA",2021-01-20
+"$4,600/mo","2bds,","2ba,",830sqft,"2310 Fulton St APT 509, Berkeley, CA 94704",2021-01-20
+"$2,850+Studio","$3,150+1 bd","$2,068+2 bds",,"Stadium Place Apartments | 2310 Fulton St, Berkeley, CA",2021-01-20
+"$1,950/mo","1bd,","1ba,",--sqft,"2315 Webster St #2315C, Berkeley, CA 94705",2021-01-20
+"$1,795+1 bd",,,,"2511 Prince St, Berkeley, CA",2021-01-20
+"$2,230+Studio","$2,699+1 bd","$3,513+2 bds",,"Modera Berkeley | 2119 University Ave, Berkeley, CA",2021-01-20
+"$1,925/mo","1bd,","1ba,",600sqft,"1217 University Ave #A, Berkeley, CA 94702",2021-01-20
+"$2,386+1 bd","$2,820+2 bds",,,"Avalon Berkeley | 651 Addison St, Berkeley, CA",2021-01-20
+"$2,881+Studio","$3,610+2 bds","$4,9253 bds",,"Hillside Village | 1801 Shattuck Ave, Berkeley, CA",2021-01-20
+"$1,542/mo","--bds,","1ba,",--sqft,"1925 10th St #9, Berkeley, CA 94710",2021-01-20
+"$2,753+1 bd","$3,340+2 bds",,,"Berkeley Central | 2055 Center St, Berkeley, CA",2021-01-20
+"$2,950+Studio","$3,225+1 bd","$4,550+2 bds",,"Parker | 2038 Parker St, Berkeley, CA",2021-01-20
+"$1,750/mo","Studio,","1ba,",350sqft,"1707 Sacramento St, Berkeley, CA 94702",2021-01-20
+"$8,000/mo","5bds,","3ba,","1,750sqft","2550 Regent St #4, Berkeley, CA 94704",2021-01-20
+"$1,895/mo","Studio,","1ba,",--sqft,"3040 Telegraph Ave APT 2, Berkeley, CA 94705",2021-01-20
+"$1,790/mo","Studio,","1ba,",--sqft,"2667 Derby St #4, Berkeley, CA 94705",2021-01-20
+"$1,940+1 bd",,,,"2636 Warring St, Berkeley, CA",2021-01-20
+"$1,500/mo","Studio,","1ba,",300sqft,"1608 Oregon St, Berkeley, CA 94703",2021-01-20
+"$2,100/mo","Studio,","1ba,",800sqft,"2367 Prospect St #2467, Berkeley, CA 94704",2021-01-20
+"$3,275/mo","2bds,","1ba,",--sqft,"1598 Visalia Ave #1598, Berkeley, CA 94707",2021-01-20
+"$2,205/mo","2bds,","1ba,",800sqft,"1618 Fairview St APT 2, Berkeley, CA 94703",2021-01-20
+"$2,200/mo","1bd,","1ba,",482sqft,"2406 Dana St APT B, Berkeley, CA 94704",2021-01-20
+"$2,795/mo","2bds,","1ba,",620sqft,"3111 College Ave #C, Berkeley, CA 94705",2021-01-20
+"$2,100/mo","Studio,","1ba,",500sqft,"2235 Hearst Ave #5, Berkeley, CA 94709",2021-01-20
+"$2,299+Studio","$2,524+1 bd","$3,529+2 bds",,"The Aquatic | 2010 5th St, Berkeley, CA",2021-01-20
+"$2,200/mo","1bd,","1ba,",650sqft,"2012 Grant St APT 4, Berkeley, CA 94703",2021-01-20
+"$2,500/mo","2bds,","1ba,",800sqft,"1215 Blake St #D, Berkeley, CA 94702",2021-01-20
+"$2,0501 bd","$2,1502 bds",,,"1515 Milvia St, Berkeley, CA",2021-01-20
+"$2,200/mo","1bd,","1ba,",760sqft,"1641 62nd St, Berkeley, CA 94703",2021-01-20
+"$2,300/mo","2bds,","1ba,",750sqft,"2235 Ashby Ave APT 201, Berkeley, CA 94705",2021-01-20
+"$2,100/mo","2bds,","1ba,",750sqft,"1833 Carleton St #1833, Berkeley, CA 94703",2021-01-20
+"$1,995/mo","1bd,","1ba,",600sqft,"1643 Prince St #8, Berkeley, CA 94703",2021-01-20
+"$2,395Studio","$3,3002 bds",,,"2505 Virginia St, Berkeley, CA",2021-01-20
+"$1,995/mo","1bd,","1ba,","7,020sqft","2708 College Ave, Berkeley, CA 94705",2021-01-20
+"$1,945+/mo","1bd,","1ba,",450sqft,"1425 Oxford St #YWBFDGXN0, Berkeley, CA 94709",2021-01-20
+"$3,100/mo","2bds,","1ba,",824sqft,"2718 Grant St, Berkeley, CA 94703",2021-01-20

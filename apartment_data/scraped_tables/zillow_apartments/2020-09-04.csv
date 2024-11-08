@@ -1,0 +1,21 @@
+price,type,bathrooms,size,address,date
+"$5,400/mo",3bds,2ba,"2,110sqft","815 Folger Ave, Berkeley, CA 94710",2020-09-04
+"$5,600/mo",4bds,2ba,"2,320sqft","813 Folger Ave, Berkeley, CA 94710",2020-09-04
+"$2,200/mo",1bd,1ba,--sqft,"1497 Hopkins St APT 2A, Berkeley, CA 94702",2020-09-04
+"$2,550/mo",1bd,1ba,570sqft,"861 Regal Rd #B, Berkeley, CA 94708",2020-09-04
+"$1,790/mo",Studio,1ba,--sqft,"2667 Derby St #4, Berkeley, CA 94705",2020-09-04
+"$1,900/mo",Studio,1ba,450sqft,"2718 Dana St #1, Berkeley, CA 94705",2020-09-04
+"$2,195/mo",1bd,1ba,--sqft,"2468 Bancroft Way #10, Berkeley, CA 94704",2020-09-04
+"$2,005/mo",1bd,1ba,600sqft,"1233 University Ave #B, Berkeley, CA 94702",2020-09-04
+"$2,200/mo",1bd,1ba,750sqft,"1 bed, 750 sqft, $2,200, M, Berkeley, CA 94703",2020-09-04
+"$2,350/mo",1bd,1ba,650sqft,"2631 Benvenue Ave #8, Berkeley, CA 94704",2020-09-04
+"$1,750/mo",Studio,1ba,500sqft,"1472 University Ave #D, Berkeley, CA 94702",2020-09-04
+"$2,395/mo",1bd,1ba,650sqft,"1100 Francisco St, Berkeley, CA 94702",2020-09-04
+"$1,995/mo",Studio,1ba,600sqft,"2942 Claremont Blvd #3, Berkeley, CA 94705",2020-09-04
+"$1,950/mo",1bd,1ba,400sqft,"2305 Acton St #E, Berkeley, CA 94702",2020-09-04
+"$2,790/mo",2bds,1ba,775sqft,"2331 Stuart St #B, Berkeley, CA 94705",2020-09-04
+"$2,600/mo",2bds,1ba,810sqft,"1629 6th St #B, Berkeley, CA 94710",2020-09-04
+"$2,195/mo",1bd,1ba,750sqft,"2227 Derby St APT 3, Berkeley, CA 94705",2020-09-04
+"$3,200/mo",2bds,1ba,950sqft,"2326 Prince St #A, Berkeley, CA 94705",2020-09-04
+"$1,900/mo",Studio,1ba,550sqft,"2116 Essex St #A, Berkeley, CA 94705",2020-09-04
+"$2,500/mo",1bd,1ba,--sqft,"1406 Henry St #1, Berkeley, CA 94709",2020-09-04

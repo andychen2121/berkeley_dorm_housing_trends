@@ -1,0 +1,15 @@
+price,type,bathrooms,size,address,date
+"$1,295/mo",Studio,--ba,--sqft,"2312 Ellsworth St # 13, Berkeley, CA 94704",2020-03-27
+"$2,395/mo",1bd,--ba,--sqft,"2430 Prospect St APT 107, Berkeley, CA 94704",2020-03-27
+"$2,995/mo",2bds,--ba,--sqft,"2079-87 Delaware St # 20, Berkeley, CA 94709",2020-03-27
+"$1,850/mo",Studio,1ba,--sqft,"2491 Ellsworth St APT 22, Berkeley, CA 94704",2020-03-27
+"$5,625/mo",2bds,2ba,"1,250sqft","Alcatraz Ave, Berkeley, CA 94702",2020-03-27
+"$7,200/mo",3bds,1.5ba,"1,750sqft","Fairview St, Berkeley, CA 94703",2020-03-27
+"$1,995/mo",1bd,1ba,--sqft,"1716 University Ave # 3, Berkeley, CA 94703",2020-03-27
+"$2,250/mo",2bds,1ba,700sqft,"1917 6th St # 8-11, Berkeley, CA 94710",2020-03-27
+"$1,850/mo",Studio,1ba,--sqft,"2491 Ellsworth St APT 26, Berkeley, CA 94704",2020-03-27
+"$5,000/mo",3bds,1ba,--sqft,"1827 Spruce St, Berkeley, CA 94709",2020-03-27
+"$2,095/mo",1bd,1ba,--sqft,"2317 Hearst Ave APT 7, Berkeley, CA 94709",2020-03-27
+"$2,400+/mo",2bds,1ba,780sqft,"37 Harmon - 3, 3",2020-03-27
+"$5,495/mo",4bds,1ba,750sqft,"4 bed, 750 sqft, $5,495, 3",2020-03-27
+"$1,895/mo",Studio,1ba,--sqft,"2218 Haste St APT 1, Berkeley, CA 94704",2020-03-27

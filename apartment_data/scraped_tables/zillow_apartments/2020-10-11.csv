@@ -1,0 +1,28 @@
+price,type,bathrooms,size,address,date
+"$1,995/mo",Studio,1ba,400sqft,"2141 Virginia St APT B, Berkeley, CA 94709",2020-10-11
+"$3,300/mo",2bds,2ba,"1,050sqft","2815 Regent St APT 4, Berkeley, CA 94705",2020-10-11
+"$2,350/mo",2bds,1ba,700sqft,"1717 Ward St #D, Berkeley, CA 94703",2020-10-11
+"$2,394/mo",1bd,1ba,500sqft,"1798 Walnut St #8, Berkeley, CA 94709",2020-10-11
+"$2,100/mo",1bd,1ba,750sqft,"2700 San Pablo Ave, Berkeley, CA 94702",2020-10-11
+"$3,200/mo",3bds,2ba,"1,064sqft","2543 Martin Luther King Jr Way APT 2, Berkeley, CA 94704",2020-10-11
+"$4,150/mo",2bds,1.5ba,"1,304sqft","1596 Euclid Ave #1596, Berkeley, CA 94708",2020-10-11
+"$2,145/mo",1bd,1ba,--sqft,"2409 Cedar St, Berkeley, CA 94708",2020-10-11
+"$2,850/mo",2bds,1.5ba,750sqft,"(undisclosed Address), Berkeley, CA 94704",2020-10-11
+"$2,500/mo",2bds,1ba,658sqft,"2426 Fulton St APT 2, Berkeley, CA 94704",2020-10-11
+"$3,150/mo",2bds,1ba,"1,000sqft","(undisclosed Address), Berkeley, CA 94703",2020-10-11
+"$1,490/mo",Studio,1ba,450sqft,"2431 College Ave #19, Berkeley, CA 94704",2020-10-11
+"$5,000/mo",3bds,2ba,"2,100sqft","(undisclosed Address), Berkeley, CA 94703",2020-10-11
+"$1,499/mo",Studio,1ba,450sqft,"(undisclosed Address), Berkeley, CA 94702",2020-10-11
+"$4,950/mo",3bds,1.5ba,"1,750sqft","(undisclosed Address), Berkeley, CA 94703",2020-10-11
+"$2,400/mo",2bds,1ba,700sqft,"(undisclosed Address), Berkeley, CA 94702",2020-10-11
+"$1,650/mo",1bd,1ba,530sqft,"(undisclosed Address), Berkeley, CA 94702",2020-10-11
+"$3,000/mo",2bds,1ba,"1,000sqft","(undisclosed Address), Berkeley, CA 94704",2020-10-11
+"$3,200/mo",1bd,1ba,831sqft,"(undisclosed Address), Berkeley, CA 94709",2020-10-11
+"$2,350/mo",1bd,1ba,575sqft,"1397 Curtis St, Berkeley, CA 94702",2020-10-11
+"$1,795/mo",Studio,1ba,400sqft,"2684 Sacramento St #2684, Berkeley, CA 94702",2020-10-11
+"$1,600/mo",1bd,1ba,500sqft,"2110 Ashby Ave #10, Berkeley, CA 94705",2020-10-11
+"$2,100/mo",1bd,1ba,750sqft,"2433 Warring St #2, Berkeley, CA 94704",2020-10-11
+"$3,300/mo",3bds,1ba,"1,250sqft","1008 Channing Way, Berkeley, CA 94710",2020-10-11
+"$3,300/mo",2bds,1ba,900sqft,"1024 Miller Ave #2, Berkeley, CA 94708",2020-10-11
+"$2,400/mo",Studio,1ba,--sqft,"1781 Spruce St, Berkeley, CA 94709",2020-10-11
+"$2,300/mo",2bds,1ba,--sqft,"1608 Harmon St APT 2, Berkeley, CA 94703",2020-10-11

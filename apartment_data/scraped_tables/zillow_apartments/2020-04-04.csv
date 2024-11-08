@@ -1,0 +1,13 @@
+price,type,bathrooms,size,address,date
+"$1,995/mo",1bd,1ba,650sqft,"1804 62nd St #6, Berkeley, CA 94703",2020-04-04
+"$2,700/mo",2bds,6ba,750sqft,"2340 Grant St, Berkeley, CA 94703",2020-04-04
+"$2,600/mo",1bd,1ba,450sqft,"1738 Martin Luther King Jr Way, Berkeley, CA 94709",2020-04-04
+"$5,900/mo",4bds,1.5ba,--sqft,"2539 Telegraph Ave #201, Berkeley, CA 94704",2020-04-04
+"$1,850/mo",Studio,1ba,430sqft,"2320 Haste St #16, Berkeley, CA 94704",2020-04-04
+"$1,995/mo",Studio,1ba,250sqft,"2545 Benvenue Ave APT C, Berkeley, CA 94704",2020-04-04
+"$2,495/mo",2bds,1ba,--sqft,"2 bed, $2,495, 3",2020-04-04
+"$2,995/mo",2bds,1ba,--sqft,"2314 Dwight Way APT 4, Berkeley, CA 94704",2020-04-04
+"$2,995/mo",2bds,1ba,180sqft,"2 bed, $2,995, 5",2020-04-04
+"$2,195/mo",Studio,1ba,--sqft,"2240 Blake St APT 216, Berkeley, CA 94704",2020-04-04
+"$2,995/mo",2bds,1ba,--sqft,"2230 Dwight Way APT 204, Berkeley, CA 94704",2020-04-04
+"$2,425/mo",1bd,1ba,--sqft,"1629 Walnut St #PENTHOUSE, Berkeley, CA 94709",2020-04-04

@@ -1,0 +1,10 @@
+price,type,bathrooms,size,address,date
+"$1,825/mo",Studio,1ba,--sqft,"1631 Walnut St #F, Berkeley, CA 94709",2021-11-02
+"$4,485/mo",4bds,3ba,"1,200sqft","3411H Adeline St #3, Berkeley, CA 94703",2021-11-02
+"$3,875/mo",3bds,2ba,"1,000sqft","3411 Adeline St #4, Berkeley, CA 94703",2021-11-02
+"$2,095/mo",2bds,1ba,700sqft,"2113 10th St APT 2, Berkeley, CA 94710",2021-11-02
+"$2,950+Studio","$3,225+1 bd","$4,550+2 bds",,"Parker | 2038 Parker St, Berkeley, CA",2021-11-02
+"$3,311+Studio","$3,647+1 bd","$3,975+2 bds",,"Modera Berkeley | 2119 University Ave, Berkeley, CA",2021-11-02
+$959+Studio,"$2,040+2 bds",,,"Allston + Stadium Student Housing | 2310 Fulton St, Berkeley, CA",2021-11-02
+"$2,383+1 bd",,,,"2627 Fulton St. | 2627 Fulton St, Berkeley, CA",2021-11-02
+"$3,355+2 bds","$5,665+3 bds",,,"Hillside Village | 1801 Shattuck Ave, Berkeley, CA",2021-11-02

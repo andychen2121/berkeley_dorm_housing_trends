@@ -1,0 +1,20 @@
+price,type,bathrooms,size,address,date
+"$1,850/mo",1bd,1ba,400sqft,"Creston Rd, Berkeley, CA 94708",2020-06-29
+"$3,900/mo",4bds,2ba,"1,500sqft","4 bed, 1500 sqft, $3,900, E",2020-06-29
+"$1,950/mo",1bd,1ba,600sqft,"3342 California St #B, Berkeley, CA 94703",2020-06-29
+"$3,645/mo",2bds,1ba,"1,000sqft","2615 Regent St #3, Berkeley, CA 94704",2020-06-29
+"$2,500/mo",1bd,1ba,750sqft,"1829 Highland Pl, Berkeley, CA 94709",2020-06-29
+"$2,895/mo",2bds,1ba,750sqft,"1919 Dwight Way FLOOR 3, Berkeley, CA 94704",2020-06-29
+"$4,750/mo",3bds,2ba,"1,552sqft","1113 Parker St, Berkeley, CA 94702",2020-06-29
+"$2,680/mo",2bds,1ba,700sqft,"1910 9th St APT 6, Berkeley, CA 94710",2020-06-29
+"$1,995/mo",1bd,1ba,--sqft,"2024 University Ave STE 4, Berkeley, CA 94704",2020-06-29
+"$1,995/mo",Studio,1ba,--sqft,"1810 Euclid Ave APT 17, Berkeley, CA 94709",2020-06-29
+"$3,600/mo",2bds,1ba,--sqft,"Ridge Rd, Berkeley, CA 94709",2020-06-29
+"$1,500/mo",Studio,1ba,--sqft,"2208 Dwight Way APT 1, Berkeley, CA 94704",2020-06-29
+"$3,000/mo",2bds,1ba,--sqft,"2220 Dwight Way #102, Berkeley, CA 94704",2020-06-29
+"$1,995/mo",Studio,1ba,350sqft,"2817 College Ave APT 6, Berkeley, CA 94705",2020-06-29
+"$2,550/mo",1bd,1ba,545sqft,"Regal Rd, Berkeley, CA 94708",2020-06-29
+"$2,950/mo",2bds,1ba,900sqft,"Derby St, Berkeley, CA 94705",2020-06-29
+"$2,995/mo",2bds,1ba,--sqft,"2732 Haste St #28, Berkeley, CA 94704",2020-06-29
+"$2,100/mo",1bd,1ba,540sqft,"1 bed, 540 sqft, $2,100, 12",2020-06-29
+"$2,950/mo",2bds,1ba,--sqft,"Franklin St, Berkeley, CA 94702",2020-06-29

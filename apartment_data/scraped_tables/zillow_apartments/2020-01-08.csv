@@ -1,0 +1,29 @@
+price,type,bathrooms,size,address,date
+"$1,950/mo",10bds,10ba,"8,160sqft","1341 University Ave, Berkeley, CA 94702",2020-01-08
+"$1,995/mo",Studio,1ba,--sqft,"2321 Dwight Way APT 203, Berkeley, CA 94704",2020-01-08
+"$2,495/mo",1bd,1ba,620sqft,"2636 Warring St APT 204, Berkeley, CA 94704",2020-01-08
+"$2,400/mo",1bd,1ba,--sqft,"Virginia St, Berkeley, CA 94709",2020-01-08
+"$1,995/mo",Studio,1ba,400sqft,"2709 Dwight Way, Berkeley, CA 94704",2020-01-08
+"$9,500/mo",6bds,4.5ba,"4,112sqft","1033 Miller Ave # 0, Berkeley, CA 94708",2020-01-08
+"$1,500/mo",Studio,1ba,--sqft,"2729 Dwight Way APT 205, Berkeley, CA 94704",2020-01-08
+"$9,500/mo",6bds,4.5ba,"4,112sqft","1033 Miller Ave # 1, Berkeley, CA 94708",2020-01-08
+"$2,095/mo",Studio,1ba,--sqft,"1810 Euclid Ave APT 15, Berkeley, CA 94709",2020-01-08
+"$3,999/mo",3bds,2ba,900sqft,"1014 Hearst Ave # 1, Berkeley, CA 94710",2020-01-08
+"$2,050/mo",1bd,1ba,575sqft,"1945 Berkeley Way APT 107, Berkeley, CA 94704",2020-01-08
+"$4,200/mo",3bds,1ba,--sqft,"2701 Ridge Roadla Loma Ave, Berkeley, CA 94709",2020-01-08
+"$3,400/mo",2bds,2ba,800sqft,"1930 Vine St APT 107, Berkeley, CA 94709",2020-01-08
+"$2,300/mo",1bd,1ba,720sqft,"2012 Grant St APT 1, Berkeley, CA 94703",2020-01-08
+"$2,630/mo",1bd,1ba,652sqft,"1569 Spruce St APT 6, Berkeley, CA 94709",2020-01-08
+"$1,835/mo",Studio,1ba,335sqft,"2632 Regent St APT C, Berkeley, CA 94704",2020-01-08
+"$2,100/mo",Studio,1ba,543sqft,"1829 Spruce St, Berkeley, CA 94709",2020-01-08
+"$2,990/mo",1bd,1ba,700sqft,"(undisclosed Address), Berkeley, CA 94703",2020-01-08
+"$2,600/mo",2bds,1ba,825sqft,"Bonita Ave, Berkeley, CA 94709",2020-01-08
+"$4,500/mo",2bds,1ba,"1,102sqft","2405 Hillside Ave, Berkeley, CA 94704",2020-01-08
+"$2,150/mo",Studio,1ba,450sqft,"1898 Harmon St, Berkeley, CA 94703",2020-01-08
+"$2,950/mo",2bds,1ba,729sqft,"2110 Spaulding Ave APT C, Berkeley, CA 94703",2020-01-08
+"$2,799/mo",2bds,1ba,"1,000sqft","Curtis St, Berkeley, CA 94702",2020-01-08
+"$1,650/mo",1bd,1ba,--sqft,"2212 San Pablo Ave APT 5, Berkeley, CA 94702",2020-01-08
+"$2,195/mo",1bd,1ba,650sqft,"1420 Neilson St # A, Berkeley, CA 94702",2020-01-08
+"$1,950/mo",Studio,1ba,--sqft,"1910 Virginia St # A, Berkeley, CA 94709",2020-01-08
+"$2,200/mo",Studio,1ba,--sqft,"1820 Euclid Ave APT 9, Berkeley, CA 94709",2020-01-08
+"$2,500/mo",1bd,1ba,--sqft,"1397 Curtis St, Berkeley, CA 94702",2020-01-08

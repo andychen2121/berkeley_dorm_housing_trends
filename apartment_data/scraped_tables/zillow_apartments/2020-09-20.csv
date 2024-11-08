@@ -1,0 +1,24 @@
+price,type,bathrooms,size,address,date
+"$2,380/mo",1bd,1ba,560sqft,"2214 Haste St APT 1, Berkeley, CA 94704",2020-09-20
+"$2,900/mo",1bd,1ba,750sqft,"2639 Hillegass Ave #3, Berkeley, CA 94704",2020-09-20
+"$2,500/mo",1bd,1ba,550sqft,"2340 Hilgard Ave APT C, Berkeley, CA 94709",2020-09-20
+"$2,600/mo",2bds,1ba,750sqft,"2126 Mckinley Ave #2, Berkeley, CA 94703",2020-09-20
+"$2,850/mo",2bds,1ba,900sqft,"1522 Woolsey St APT B, Berkeley, CA 94703",2020-09-20
+"$2,250/mo",2bds,1ba,--sqft,"2417 6th St UNIT 2, Berkeley, CA 94710",2020-09-20
+"$2,000/mo",1bd,1ba,545sqft,"1628 Ashby Ave, Berkeley, CA 94703",2020-09-20
+"$1,800/mo",Studio,1ba,--sqft,"2104 Prince St #1, Berkeley, CA 94705",2020-09-20
+"$2,998/mo",2bds,1ba,750sqft,"1527 Stuart St #A, Berkeley, CA 94703",2020-09-20
+"$2,600/mo",2bds,1ba,600sqft,"1338 Addison St, Berkeley, CA 94702",2020-09-20
+"$3,000/mo",1bd,1ba,775sqft,"2343 Howe St, Berkeley, CA 94705",2020-09-20
+"$2,495/mo",1bd,1ba,851sqft,"3110 College Ave APT 1, Berkeley, CA 94705",2020-09-20
+"$2,500/mo",2bds,1ba,950sqft,"1843 Dwight Way APT 1, Berkeley, CA 94704",2020-09-20
+"$4,900/mo",3bds,2ba,"1,240sqft","1216 Spruce St #1/2, Berkeley, CA 94709",2020-09-20
+"$1,750/mo",1bd,1ba,--sqft,"2019 Delaware St #2, Berkeley, CA 94709",2020-09-20
+"$2,095/mo",2bds,1ba,850sqft,"2327 Dwight Way, Berkeley, CA 94704",2020-09-20
+"$1,650/mo",Studio,1ba,400sqft,"1907 Center St APT 8, Berkeley, CA 94704",2020-09-20
+"$1,950/mo",Studio,1ba,"2,080sqft","684 Colusa Ave, Berkeley, CA 94707",2020-09-20
+"$3,300/mo",3bds,2ba,900sqft,"1605 Milvia St #C, Berkeley, CA 94709",2020-09-20
+"$1,895/mo",1bd,1ba,600sqft,"2233 Grant St APT 10, Berkeley, CA 94703",2020-09-20
+"$1,750/mo",1bd,1ba,460sqft,"2801 College Ave APT 14, Berkeley, CA 94705",2020-09-20
+"$2,750/mo",2bds,1ba,--sqft,"1430 Josephine St #R4, Berkeley, CA 94703",2020-09-20
+"$1,800/mo",1bd,1ba,350sqft,"1749 Oxford St APT 12, Berkeley, CA 94709",2020-09-20

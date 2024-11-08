@@ -1,0 +1,16 @@
+price,type,bathrooms,size,address,date
+"$2,495/mo",1bd,1ba,750sqft,"Hillcrest Rd, Berkeley, CA 94705",2020-04-10
+"$2,000/mo",Studio,1ba,--sqft,"1803 Spruce St, Berkeley, CA 94709",2020-04-10
+"$3,500/mo",2bds,1ba,--sqft,"Piedmont Ave, Berkeley, CA 94704",2020-04-10
+"$2,950/mo",2bds,2ba,--sqft,"2124 Parker St APT 108, Berkeley, CA 94704",2020-04-10
+"$1,995/mo",1bd,1ba,750sqft,"1737 Solano Ave #108, Berkeley, CA 94707",2020-04-10
+"$3,595/mo",2bds,1ba,--sqft,"1601 Bonita Ave #B, Berkeley, CA 94709",2020-04-10
+"$3,300/mo",3bds,1ba,800sqft,"1275 Bonita Ave APT 301, Berkeley, CA 94709",2020-04-10
+"$4,500/mo",2bds,2ba,--sqft,"2467 Warring St #401, Berkeley, CA 94704",2020-04-10
+"$1,895/mo",1bd,1ba,--sqft,"1931 Dwight Way #17, Berkeley, CA 94704",2020-04-10
+"$2,100/mo",1bd,1ba,--sqft,"2515 Benvenue Ave #304, Berkeley, CA 94704",2020-04-10
+"$1,995/mo",1bd,1ba,650sqft,"2906 Martin Luther King Jr Way APT C, Berkeley, CA 94703",2020-04-10
+"$3,195/mo",2bds,1ba,--sqft,"2126 Bancroft Way APT 3, Berkeley, CA 94704",2020-04-10
+"$3,800/mo",2bds,1ba,"1,000sqft","1118 Park Hills Rd #B, Berkeley, CA 94708",2020-04-10
+"$3,250/mo",1bd,1ba,850sqft,"2737 Garber St APT 8, Berkeley, CA 94705",2020-04-10
+"$1,680/mo",1bd,1ba,320sqft,"Los Angeles Ave, Berkeley, CA 94707",2020-04-10

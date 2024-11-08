@@ -1,0 +1,34 @@
+price,type,bathrooms,size,address,date
+"$3,999/mo",3bds,2ba,900sqft,"1014 Hearst Ave # 1, Berkeley, CA 94710",2020-01-07
+"$2,050/mo",1bd,1ba,575sqft,"1945 Berkeley Way APT 107, Berkeley, CA 94704",2020-01-07
+"$4,200/mo",3bds,1ba,--sqft,"2701 Ridge Roadla Loma Ave, Berkeley, CA 94709",2020-01-07
+"$3,400/mo",2bds,2ba,800sqft,"1930 Vine St APT 107, Berkeley, CA 94709",2020-01-07
+"$2,300/mo",1bd,1ba,720sqft,"2012 Grant St APT 1, Berkeley, CA 94703",2020-01-07
+"$2,630/mo",1bd,1ba,652sqft,"1569 Spruce St APT 6, Berkeley, CA 94709",2020-01-07
+"$1,835/mo",Studio,1ba,335sqft,"2632 Regent St APT C, Berkeley, CA 94704",2020-01-07
+"$2,100/mo",Studio,1ba,543sqft,"1829 Spruce St, Berkeley, CA 94709",2020-01-07
+"$2,990/mo",1bd,1ba,700sqft,"(undisclosed Address), Berkeley, CA 94703",2020-01-07
+"$2,600/mo",2bds,1ba,825sqft,"Bonita Ave, Berkeley, CA 94709",2020-01-07
+"$4,500/mo",2bds,1ba,"1,102sqft","2405 Hillside Ave, Berkeley, CA 94704",2020-01-07
+"$2,150/mo",Studio,1ba,450sqft,"1898 Harmon St, Berkeley, CA 94703",2020-01-07
+"$2,950/mo",2bds,1ba,729sqft,"2110 Spaulding Ave APT C, Berkeley, CA 94703",2020-01-07
+"$2,000/mo",1bd,1ba,560sqft,"Alcatraz Ave, Berkeley, CA 94703",2020-01-07
+"$2,799/mo",2bds,1ba,"1,000sqft","Curtis St, Berkeley, CA 94702",2020-01-07
+"$1,650/mo",1bd,1ba,--sqft,"2212 San Pablo Ave APT 5, Berkeley, CA 94702",2020-01-07
+"$2,195/mo",1bd,1ba,650sqft,"1420 Neilson St # A, Berkeley, CA 94702",2020-01-07
+"$1,950/mo",Studio,1ba,--sqft,"1910 Virginia St # A, Berkeley, CA 94709",2020-01-07
+"$2,200/mo",Studio,1ba,--sqft,"1820 Euclid Ave APT 9, Berkeley, CA 94709",2020-01-07
+"$2,500/mo",1bd,1ba,--sqft,"1397 Curtis St, Berkeley, CA 94702",2020-01-07
+"$2,195/mo",Studio,1ba,--sqft,"1525 Spruce St APT 27, Berkeley, CA 94709",2020-01-07
+"$1,595/mo",Studio,1ba,--sqft,"2450 Milvia St APT 14, Berkeley, CA 94704",2020-01-07
+"$3,495/mo",2bds,1ba,--sqft,"2515 Benvenue Ave APT 205, Berkeley, CA 94704",2020-01-07
+"$1,650/mo",Studio,1ba,480sqft,"2010 10th St APT A, Berkeley, CA 94710",2020-01-07
+"$2,600/mo",2bds,1ba,700sqft,"1811 Addison St APT C, Berkeley, CA 94703",2020-01-07
+"$1,950/mo",1bd,1ba,--sqft,"2108 Stuart St APT 7, Berkeley, CA 94705",2020-01-07
+"$2,350/mo",2bds,1ba,--sqft,"1635 Julia St APT 9, Berkeley, CA 94703",2020-01-07
+"$3,250/mo",1bd,1ba,675sqft,"2343 Howe St, Berkeley, CA 94705",2020-01-07
+"$3,750/mo",2bds,2ba,--sqft,"2341 Howe St, Berkeley, CA 94705",2020-01-07
+"$3,800/mo",1bd,1ba,850sqft,"2547 Piedmont Ave, Berkeley, CA 94704",2020-01-07
+"$2,650/mo",1bd,1ba,500sqft,"2314 10th St, Berkeley, CA 94710",2020-01-07
+"$1,988/mo",1bd,1ba,504sqft,"1403 Carleton St APT B, Berkeley, CA 94702",2020-01-07
+"$1,900/mo",1bd,1ba,--sqft,"1721 Dwight Way, Berkeley, CA 94703",2020-01-07

@@ -1,0 +1,19 @@
+price,type,bathrooms,size,address,date
+"$2,400/mo",1bd,1ba,700sqft,"1404 Campus Dr, Berkeley, CA 94708",2020-05-18
+"$1,900/mo",1bd,1ba,--sqft,"2206 Dwight Way APT 1, Berkeley, CA 94704",2020-05-18
+"$2,995/mo",2bds,1ba,--sqft,"2 bed, $2,995, 1",2020-05-18
+"$2,995/mo",2bds,1ba,--sqft,"2230 Prince St #P1-UNIT 1, Berkeley, CA 94705",2020-05-18
+"$1,850/mo",1bd,1ba,504sqft,"1529 Alcatraz Ave APT 1, Berkeley, CA 94703",2020-05-18
+"$2,795/mo",1bd,1ba,650sqft,"Dwight Way, Berkeley, CA 94703",2020-05-18
+"$2,800/mo",1bd,1ba,--sqft,"1781 Spruce St #3, Berkeley, CA 94709",2020-05-18
+"$1,850/mo",1bd,1ba,410sqft,"2331 Dwight Way #A, Berkeley, CA 94704",2020-05-18
+"$3,000/mo",2bds,1ba,"1,100sqft","2708 Martin Luther King Jr Way #A, Berkeley, CA 94703",2020-05-18
+"$1,975/mo",Studio,1ba,380sqft,"3373 Dwight Way, Berkeley, CA 94704",2020-05-18
+"$2,950/mo",1bd,1ba,900sqft,"Shattuck Ave, Berkeley, CA 94709",2020-05-18
+"$2,000/mo",1bd,1ba,--sqft,"1815 Derby St APT A, Berkeley, CA 94703",2020-05-18
+"$1,395/mo",Studio,1ba,340sqft,"2717 Channing Way #4-A, Berkeley, CA 94704",2020-05-18
+"$1,995/mo",1bd,--ba,--sqft,"1244 Hearst Ave APT 6, Berkeley, CA 94702",2020-05-18
+"$2,995/mo",2bds,1ba,800sqft,"1739 Addison St APT 8, Berkeley, CA 94703",2020-05-18
+"$1,895/mo",Studio,1ba,--sqft,"2321 Dwight Way #304, Berkeley, CA 94704",2020-05-18
+"$2,095/mo",Studio,1ba,533sqft,"Studio, 533 sqft, $2,095, 2",2020-05-18
+"$2,499/mo",1bd,1ba,688sqft,"1569 Spruce St #7, Berkeley, CA 94709",2020-05-18

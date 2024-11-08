@@ -1,0 +1,32 @@
+price,type,bathrooms,size,address,date
+"$3,495/mo",2bds,1ba,--sqft,"2515 Benvenue Ave APT 205, Berkeley, CA 94704",2020-01-02
+"$1,650/mo",Studio,1ba,480sqft,"2010 10th St APT A, Berkeley, CA 94710",2020-01-02
+"$2,600/mo",2bds,1ba,700sqft,"1811 Addison St APT C, Berkeley, CA 94703",2020-01-02
+"$1,950/mo",1bd,1ba,--sqft,"2108 Stuart St APT 7, Berkeley, CA 94705",2020-01-02
+"$2,350/mo",2bds,1ba,--sqft,"1635 Julia St APT 9, Berkeley, CA 94703",2020-01-02
+"$3,750/mo",2bds,2ba,--sqft,"2341 Howe St, Berkeley, CA 94705",2020-01-02
+"$3,250/mo",1bd,1ba,675sqft,"2343 Howe St, Berkeley, CA 94705",2020-01-02
+"$1,780/mo",Studio,1ba,350sqft,"Haste St, Berkeley, CA 94704",2020-01-02
+"$3,800/mo",1bd,1ba,850sqft,"2547 Piedmont Ave, Berkeley, CA 94704",2020-01-02
+"$2,650/mo",1bd,1ba,500sqft,"2314 10th St, Berkeley, CA 94710",2020-01-02
+"$1,988/mo",1bd,1ba,504sqft,"1403 Carleton St APT B, Berkeley, CA 94702",2020-01-02
+"$1,900/mo",1bd,1ba,--sqft,"1721 Dwight Way, Berkeley, CA 94703",2020-01-02
+"$1,995/mo",1bd,1ba,800sqft,"1757 Oxford St APT 9, Berkeley, CA 94709",2020-01-02
+"$2,462/mo",2bds,1ba,780sqft,"1316 Burnett St APT 10, Berkeley, CA 94702",2020-01-02
+"$2,100/mo",1bd,1ba,--sqft,"1955 Chestnut St APT 201, Berkeley, CA 94702",2020-01-02
+"$1,975/mo",1bd,1ba,10sqft,"1955 Chestnut St APT 301, Berkeley, CA 94702",2020-01-02
+"$1,800/mo",1bd,1ba,--sqft,"2206 Dwight Way APT 4, Berkeley, CA 94704",2020-01-02
+"$5,800/mo",4bds,1ba,"1,450sqft","2340 Carleton St, Berkeley, CA 94704",2020-01-02
+"$2,095/mo",1bd,1ba,750sqft,"1741 Parker St # TWO, Berkeley, CA 94703",2020-01-02
+"$3,995/mo",3bds,1ba,--sqft,"3322 Cedar St, Berkeley, CA 94709",2020-01-02
+"$2,495/mo",1bd,1ba,--sqft,"1725 Oxford St APT 203, Berkeley, CA 94709",2020-01-02
+"$3,800/mo",2bds,1ba,"1,100sqft","2473 Prince St # B, Berkeley, CA 94705",2020-01-02
+"$2,200/mo",1bd,1ba,825sqft,"2322 Haste St, Berkeley, CA 94704",2020-01-02
+"$2,595/mo",2bds,1ba,--sqft,"2456 Parker St APT 4, Berkeley, CA 94704",2020-01-02
+"$2,300/mo",1bd,1ba,530sqft,"2255 Hearst Ave APT 11, Berkeley, CA 94709",2020-01-02
+"$4,200/mo",3bds,1.5ba,"1,003sqft","2619 Etna St APT E, Berkeley, CA 94704",2020-01-02
+"$2,895/mo",2bds,1ba,--sqft,"2235 Bonar St APT D, Berkeley, CA 94702",2020-01-02
+"$2,850/mo",2bds,1ba,788sqft,"2172 Blake St APT 07, Berkeley, CA 94704",2020-01-02
+"$2,495/mo",Studio,1ba,432sqft,"1812 University Ave APT 406, Berkeley, CA 94703",2020-01-02
+"$3,600/mo",1bd,1ba,760sqft,"3020 Benvenue Ave APT 3, Berkeley, CA 94705",2020-01-02
+"$2,395/mo",1bd,1ba,750sqft,"2109 Cedar St APT F, Berkeley, CA 94709",2020-01-02

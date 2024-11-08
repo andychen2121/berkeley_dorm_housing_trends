@@ -1,0 +1,21 @@
+price,type,bathrooms,size,address,date
+"$4,200/mo",3bds,1ba,900sqft,"2515 Benvenue Ave #405, Berkeley, CA 94704",2020-10-05
+"$2,725/mo",2bds,1ba,600sqft,"2966 Otis St APT C, Berkeley, CA 94703",2020-10-05
+"$2,195/mo",1bd,1ba,525sqft,"1814 Blake St APT 2, Berkeley, CA 94703",2020-10-05
+"$1,700/mo",1bd,1ba,500sqft,"2216 Ashby Ave APT B, Berkeley, CA 94705",2020-10-05
+"$2,450/mo",2bds,1ba,700sqft,"913 Dwight Way, Berkeley, CA 94710",2020-10-05
+"$1,795/mo",1bd,1ba,504sqft,"1529 Alcatraz Ave APT 7, Berkeley, CA 94703",2020-10-05
+"$1,950/mo",1bd,1ba,--sqft,"2626 Etna St #3, Berkeley, CA 94704",2020-10-05
+"$2,395/mo",2bds,1ba,650sqft,"1409 Carleton St APT D, Berkeley, CA 94702",2020-10-05
+"$2,450/mo",1bd,1ba,650sqft,"1104 Francisco St, Berkeley, CA 94702",2020-10-05
+"$1,695/mo",Studio,1ba,400sqft,"1907 Center St #16, Berkeley, CA 94704",2020-10-05
+"$2,800/mo",1bd,1ba,800sqft,"1632 Julia St, Berkeley, CA 94703",2020-10-05
+"$3,000/mo",2bds,2ba,850sqft,"2125 6th St #A, Berkeley, CA 94710",2020-10-05
+"$1,755/mo",1bd,1ba,800sqft,"2127 Dwight Way, Berkeley, CA 94704",2020-10-05
+"$3,400/mo",2bds,1ba,940sqft,"2117 Ashby Ave, Berkeley, CA 94705",2020-10-05
+"$1,925/mo",1bd,1ba,--sqft,"2525 Stuart St #302, Berkeley, CA 94705",2020-10-05
+"$2,350/mo",Studio,1ba,442sqft,"1426 Spruce St UNIT 3, Berkeley, CA 94709",2020-10-05
+"$2,595/mo",2bds,1ba,--sqft,"968-990 Addison St #2108-2100-, Berkeley, CA 94710",2020-10-05
+"$4,500/mo",3bds,2ba,"2,369sqft","1816 63rd St, Berkeley, CA 94703",2020-10-05
+"$3,850/mo",4bds,2ba,--sqft,"1310 Neilson St #D, Berkeley, CA 94702",2020-10-05
+"$2,995/mo",2bds,1ba,900sqft,"2103 Emerson St, Berkeley, CA 94705",2020-10-05

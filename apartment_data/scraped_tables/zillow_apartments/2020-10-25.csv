@@ -1,0 +1,27 @@
+price,type,bathrooms,size,address,date
+"$2,700/mo",3bds,2ba,"1,001sqft","2170 Jefferson Ave, Berkeley, CA 94703",2020-10-25
+"$1,790/mo",1bd,1ba,--sqft,"2815 College Ave APT B, Berkeley, CA 94705",2020-10-25
+"$3,195/mo",2bds,1ba,908sqft,"3033 Deakin St #4, Berkeley, CA 94705",2020-10-25
+"$4,750/mo",3bds,2ba,"1,552sqft","1113 Parker St, Berkeley, CA 94702",2020-10-25
+"$1,625/mo",1bd,1ba,700sqft,"3123 King St APT B, Berkeley, CA 94703",2020-10-25
+"$1,690/mo",Studio,1ba,450sqft,"(undisclosed Address), Berkeley, CA 94702",2020-10-25
+"$3,300/mo",2bds,2ba,880sqft,"906 Channing Way APT A, Berkeley, CA 94710",2020-10-25
+"$2,000/mo",1bd,1ba,--sqft,"2130 Ashby Ave APT 9, Berkeley, CA 94705",2020-10-25
+"$1,019/mo",4bds,2ba,--sqft,"1930 Vine St #401, Berkeley, CA 94709",2020-10-25
+"$3,150/mo",2bds,1ba,700sqft,"1850 Arch St APT 2, Berkeley, CA 94709",2020-10-25
+"$2,050/mo",1bd,1ba,650sqft,"1741 Parker St #4, Berkeley, CA 94703",2020-10-25
+"$2,300/mo",1bd,1ba,950sqft,"1628 Allston Way, Berkeley, CA 94703",2020-10-25
+"$2,495/mo",1bd,1ba,706sqft,"1993 El Dorado Ave APT 6, Berkeley, CA 94707",2020-10-25
+"$1,600/mo",Studio,1ba,450sqft,"2629 Piedmont Ave #F, Berkeley, CA 94704",2020-10-25
+"$3,390/mo",3bds,1ba,"1,000sqft","(undisclosed Address), Berkeley, CA 94709",2020-10-25
+"$2,975/mo",1bd,2ba,700sqft,"1629 Walnut St, Berkeley, CA 94709",2020-10-25
+"$2,600/mo",1bd,1.5ba,750sqft,"1042 Oxford St #B, Berkeley, CA 94707",2020-10-25
+"$2,595/mo",2bds,1ba,--sqft,"2132 Roosevelt Ave #8, Berkeley, CA 94703",2020-10-25
+"$1,750/mo",Studio,1ba,600sqft,"2508 Ridge Rd APT 9, Berkeley, CA 94709",2020-10-25
+"$1,770/mo",Studio,1ba,380sqft,"2632 Regent St APT D, Berkeley, CA 94704",2020-10-25
+"$2,680/mo",2bds,1ba,"1,000sqft","(undisclosed Address), Berkeley, CA 94707",2020-10-25
+"$2,895/mo",3bds,1ba,855sqft,"2699 Derby St #6, Berkeley, CA 94705",2020-10-25
+"$2,725/mo",2bds,1ba,750sqft,"2119 Russell St #C, Berkeley, CA 94705",2020-10-25
+"$2,200/mo",2bds,1ba,900sqft,"1616 Alcatraz Ave #B, Berkeley, CA 94703",2020-10-25
+"$3,100/mo",2bds,1ba,700sqft,"1609 Bonita Ave APT 1, Berkeley, CA 94709",2020-10-25
+"$1,495+/mo",Studio,1ba,472sqft,"1630 University Ave #9A0U2H6YF, Berkeley, CA 94703",2020-10-25

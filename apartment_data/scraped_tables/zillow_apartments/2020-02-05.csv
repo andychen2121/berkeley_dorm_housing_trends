@@ -1,0 +1,20 @@
+price,type,bathrooms,size,address,date
+"$3,799/mo",2bds,1ba,"1,050sqft","2533 Hillegass Ave APT 205, Berkeley, CA 94704",2020-02-05
+"$2,400/mo",1bd,1ba,--sqft,"968-990 Addison St # 2108-972-2, Berkeley, CA 94710",2020-02-05
+"$2,150/mo",2bds,1ba,900sqft,"California St, Berkeley, CA 94703",2020-02-05
+"$3,350/mo",1bd,1ba,675sqft,"2343 Howe St, Berkeley, CA 94705",2020-02-05
+"$3,850/mo",2bds,2ba,--sqft,"2341 Howe St, Berkeley, CA 94705",2020-02-05
+"$2,995/mo",2bds,1ba,700sqft,"2741 Dwight Way, Berkeley, CA 94704",2020-02-05
+"$3,499/mo",Studio,1ba,500sqft,"Varsity Berkeley, S1",2020-02-05
+"$1,950/mo",1bd,1ba,--sqft,"1 bed, $1,950, 8",2020-02-05
+"$2,100/mo",1bd,1ba,--sqft,"1801 Rose St APT 4, Berkeley, CA 94703",2020-02-05
+"$4,495/mo",3bds,1ba,803sqft,"3 bed, 803 sqft, $4,495, B",2020-02-05
+"$2,000/mo",2bds,1ba,900sqft,"Delaware St, Berkeley, CA 94710",2020-02-05
+"$2,495/mo",Studio,1ba,480sqft,"1812 University Ave APT 314, Berkeley, CA 94703",2020-02-05
+"$3,500/mo",2bds,1ba,"1,250sqft","Channing Way, Berkeley, CA 94710",2020-02-05
+"$2,895/mo",2bds,1ba,--sqft,"2322 Shattuck Ave APT 415, Berkeley, CA 94704",2020-02-05
+"$2,850/mo",2bds,1ba,--sqft,"2172 Blake St APT 7, Berkeley, CA 94704",2020-02-05
+"$2,650/mo",1bd,1ba,800sqft,"40 Hill Rd, Berkeley, CA 94708",2020-02-05
+"$3,300/mo",2bds,2ba,919sqft,"2980 College Ave APT 10, Berkeley, CA 94705",2020-02-05
+"$3,400/mo",1bd,1ba,760sqft,"3020 Benvenue Ave APT 3, Berkeley, CA 94705",2020-02-05
+"$3,330/mo",2bds,1ba,750sqft,"Cornell Ave, Berkeley, CA 94702",2020-02-05

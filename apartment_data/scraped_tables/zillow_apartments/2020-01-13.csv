@@ -1,0 +1,23 @@
+price,type,bathrooms,size,address,date
+"$2,400/mo",2bds,1ba,--sqft,"2313 9th St APT 6, Berkeley, CA 94710",2020-01-13
+"$2,395/mo",1bd,1ba,--sqft,"2712 Derby St APT 6, Berkeley, CA 94705",2020-01-13
+"$1,895/mo",Studio,1ba,533sqft,"2125 Hearst Ave 2 Open Home Sat Jan 18th Sun Jan # 8122562, Berkeley, CA 94709",2020-01-13
+"$2,400/mo",2bds,1ba,--sqft,"1643 62nd St # 2, Berkeley, CA 94703",2020-01-13
+"$3,000/mo",1bd,1ba,"1,200sqft","1219 Oxford St # A, Berkeley, CA 94709",2020-01-13
+"$3,999/mo",3bds,2ba,900sqft,"1014 Hearst Ave # 1, Berkeley, CA 94710",2020-01-13
+"$2,450/mo",Studio,1ba,400sqft,"Claremont Blvd, Berkeley, CA 94705",2020-01-13
+"$2,750/mo",2bds,1ba,"11,472sqft","1733 Grant St, Berkeley, CA 94703",2020-01-13
+"$2,800/mo",2bds,1ba,850sqft,"1402 Curtis St, Berkeley, CA 94702",2020-01-13
+"$1,650/mo",Studio,1ba,480sqft,"2010 10th St APT A, Berkeley, CA 94710",2020-01-13
+"$3,300/mo",1bd,1ba,850sqft,"2547 Piedmont Ave, Berkeley, CA 94704",2020-01-13
+"$2,875/mo",1bd,1ba,800sqft,"1685 Oxford St, Berkeley, CA 94709",2020-01-13
+"$2,150/mo",Studio,1ba,450sqft,"1898 Harmon St # B, Berkeley, CA 94703",2020-01-13
+"$2,000/mo",1bd,1ba,--sqft,"1623 Harmon St # C, Berkeley, CA 94703",2020-01-13
+"$2,500/mo",2bds,1ba,700sqft,"1625 Woolsey St APT 11, Berkeley, CA 94703",2020-01-13
+"$2,950/mo",2bds,1ba,729sqft,"2110 Spaulding Ave APT C, Berkeley, CA 94703",2020-01-13
+"$2,875/mo",2bds,1ba,875sqft,"2235 Bonar St, Berkeley, CA 94702",2020-01-13
+"$3,565/mo",2bds,2ba,--sqft,"2700 Woolsey St APT 4, Berkeley, CA 94705",2020-01-13
+"$3,250/mo",2bds,1ba,10sqft,"Alcatraz Ave, Berkeley, CA 94703",2020-01-13
+"$2,450/mo",1bd,1ba,--sqft,"2703 Forest Ave APT 4, Berkeley, CA 94705",2020-01-13
+"$2,500/mo",1bd,1ba,700sqft,"Henry St, Berkeley, CA 94704",2020-01-13
+"$2,195/mo",1bd,1ba,475sqft,"Bonar St, Berkeley, CA 94702",2020-01-13

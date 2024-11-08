@@ -1,0 +1,20 @@
+price,type,bathrooms,size,address,date
+"$3,400/mo",2bds,2ba,"1,300sqft","Creston Rd, Berkeley, CA 94708",2020-09-16
+"$2,750/mo",2bds,1ba,--sqft,"1430 Josephine St #R4, Berkeley, CA 94703",2020-09-16
+"$3,050/mo",3bds,2ba,--sqft,"1837 Parker St FLOOR 1, Berkeley, CA 94703",2020-09-16
+"$2,300/mo",1bd,1ba,--sqft,"1629 Walnut St #PENTHOUSE, Berkeley, CA 94709",2020-09-16
+"$3,000/mo",1bd,1ba,831sqft,"Oxford St, Berkeley, CA 94709",2020-09-16
+"$1,825/mo",Studio,1ba,400sqft,"2807 Shattuck Ave APT 7, Berkeley, CA 94705",2020-09-16
+"$2,030/mo",1bd,1ba,570sqft,"2430 Prospect St APT 301, Berkeley, CA 94704",2020-09-16
+"$2,400/mo",2bds,1ba,750sqft,"1306 Martin Luther King Jr Way APT 1E, Berkeley, CA 94709",2020-09-16
+"$2,495/mo",1bd,1ba,851sqft,"3110 College Ave #2, Berkeley, CA 94705",2020-09-16
+"$1,975/mo",1bd,1ba,500sqft,"2115 Delaware St #B, Berkeley, CA 94709",2020-09-16
+"$2,195/mo",1bd,1ba,900sqft,"2416 Russell St, Berkeley, CA 94705",2020-09-16
+"$3,300/mo",2bds,1ba,950sqft,"2326 Prince St, Berkeley, CA 94705",2020-09-16
+"$3,495/mo",1bd,2ba,"1,300sqft","2777 9th St UNIT 106, Berkeley, CA 94710",2020-09-16
+"$2,300/mo",Studio,1ba,700sqft,"1015 Euclid Ave #3, Berkeley, CA 94708",2020-09-16
+"$3,900/mo",1bd,2ba,900sqft,"1540 Le Roy Ave, Berkeley, CA 94708",2020-09-16
+"$2,300/mo",2bds,1ba,775sqft,"1817 7th St #2, Berkeley, CA 94710",2020-09-16
+"$1,700/mo",Studio,1ba,--sqft,"2315 Grant St #6, Berkeley, CA 94703",2020-09-16
+"$2,095/mo",1bd,1ba,700sqft,"1632 Russell St APT 3, Berkeley, CA 94703",2020-09-16
+"$2,450/mo",10bds,5ba,"3,904sqft","1736 Parker St, Berkeley, CA 94703",2020-09-16

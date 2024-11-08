@@ -1,0 +1,23 @@
+price,type,bathrooms,size,address,date
+"$3,800/mo",1bd,1ba,--sqft,"1524 Spruce St, Berkeley, CA 94709",2020-03-16
+"$5,683/mo",2bds,2ba,"1,221sqft","Hillside Village, Two Bedroom",2020-03-16
+"$1,950/mo",Studio,1ba,380sqft,"Bonita Ave, Berkeley, CA 94709",2020-03-16
+"$2,295/mo",1bd,1ba,500sqft,"1393 Berkeley Way, Berkeley, CA 94702",2020-03-16
+"$2,095/mo",Studio,1ba,--sqft,"2601 Sacramento St, 2613 Sacramento St.",2020-03-16
+"$2,995/mo",2bds,1ba,680sqft,"1234 Martin Luther King Jr Way # A, Berkeley, CA 94709",2020-03-16
+"$2,850/mo",2bds,1ba,700sqft,"2110 Bonar St, Berkeley, CA 94702",2020-03-16
+"$2,800/mo",2bds,1ba,820sqft,"1497 Hopkins St # 3C, Berkeley, CA 94702",2020-03-16
+"$2,695/mo",1bd,1ba,675sqft,"1 bed, 675 sqft, $2,695, 3",2020-03-16
+"$1,450/mo",Studio,1ba,450sqft,"Curtis St, Berkeley, CA 94702",2020-03-16
+"$3,200/mo",3bds,1ba,"1,000sqft","San Pablo Ave, Berkeley, CA 94702",2020-03-16
+"$2,595/mo",1bd,1ba,--sqft,"2435 Hilgard Ave APT 2, Berkeley, CA 94709",2020-03-16
+"$3,595/mo",2bds,--ba,--sqft,"2414 Parker St # 12, Berkeley, CA 94704",2020-03-16
+"$2,600/mo",2bds,1ba,650sqft,"1735 San Lorenzo Ave # A, Berkeley, CA 94707",2020-03-16
+"$1,480/mo",1bd,1ba,250sqft,"Carrison St, Berkeley, CA 94702",2020-03-16
+"$2,750/mo",1bd,1ba,--sqft,"1845 Francisco St, Berkeley, CA 94703",2020-03-16
+"$2,800/mo",2bds,1ba,750sqft,"1945 Milvia St, Berkeley, CA 94704",2020-03-16
+"$2,200/mo",1bd,1ba,450sqft,"2169 Acton St # 1404-B, Berkeley, CA 94702",2020-03-16
+"$3,500/mo",2bds,1ba,"1,225sqft","2311 Virginia St, Berkeley, CA 94709",2020-03-16
+"$5,750/mo",2bds,2ba,948sqft,"2437 Piedmont Ave # 201, Berkeley, CA 94704",2020-03-16
+"$2,425/mo",1bd,1ba,--sqft,"1629 Walnut St # PENTHOUSE, Berkeley, CA 94709",2020-03-16
+"$1,990/mo",1bd,1ba,610sqft,"2013 Lincoln St, Berkeley, CA 94709",2020-03-16

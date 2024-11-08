@@ -1,0 +1,20 @@
+price,type,bathrooms,size,address,date
+"$3,000/mo",2bds,1ba,800sqft,"2246 8th St # A, Berkeley, CA 94710",2020-01-18
+"$2,900/mo",1bd,1ba,700sqft,"Benvenue Ave, Berkeley, CA 94705",2020-01-18
+"$2,375/mo",1bd,1ba,500sqft,"2314 10th St, Berkeley, CA 94710",2020-01-18
+"$1,795/mo",Studio,1ba,--sqft,"52 Panoramic Way # D, Berkeley, CA 94704",2020-01-18
+"$2,400/mo",2bds,1ba,--sqft,"1643 62nd St # 2, Berkeley, CA 94703",2020-01-18
+"$4,000/mo",2bds,1ba,"1,076sqft","1512 Francisco St, Berkeley, CA 94703",2020-01-18
+"$2,850/mo",2bds,1ba,--sqft,"2526 Ellsworth St APT 2, Berkeley, CA 94704",2020-01-18
+"$1,695/mo",Studio,1ba,750sqft,"2437 Warring St APT H, Berkeley, CA 94704",2020-01-18
+"$2,150/mo",Studio,1ba,400sqft,"2138 Center St, Berkeley, CA 94704",2020-01-18
+"$3,975/mo",3bds,1ba,"1,030sqft","1904 Russell St, Berkeley, CA 94703",2020-01-18
+"$2,775/mo",2bds,1ba,760sqft,"3008 Dana St APT 2, Berkeley, CA 94705",2020-01-18
+"$3,595/mo",2bds,1ba,675sqft,"2442 Piedmont Ave APT 3, Berkeley, CA 94704",2020-01-18
+"$3,950/mo",2bds,2ba,"1,000sqft","1800 Spruce St APT 301, Berkeley, CA 94709",2020-01-18
+"$2,395/mo",2bds,1ba,--sqft,"2435 9th St APT 4, Berkeley, CA 94710",2020-01-18
+"$2,099/mo",Studio,1ba,400sqft,"2535 Regent St APT 10, Berkeley, CA 94704",2020-01-18
+"$1,900/mo",Studio,1ba,"12,346sqft","1650 Oxford St, Berkeley, CA 94709",2020-01-18
+"$2,795/mo",2bds,--ba,--sqft,"2227 Roosevelt Ave APT 2, Berkeley, CA 94703",2020-01-18
+"$3,600/mo",1bd,1ba,760sqft,"3020 Benvenue Ave APT 3, Berkeley, CA 94705",2020-01-18
+"$2,100/mo",Studio,1ba,543sqft,"1829 Spruce St, Berkeley, CA 94709",2020-01-18

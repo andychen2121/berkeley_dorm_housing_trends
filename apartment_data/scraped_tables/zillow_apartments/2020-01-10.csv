@@ -1,0 +1,28 @@
+price,type,bathrooms,size,address,date
+"$2,950/mo",2bds,1ba,729sqft,"2110 Spaulding Ave APT C, Berkeley, CA 94703",2020-01-10
+"$2,875/mo",2bds,1ba,875sqft,"2235 Bonar St, Berkeley, CA 94702",2020-01-10
+"$3,565/mo",2bds,2ba,--sqft,"2700 Woolsey St APT 4, Berkeley, CA 94705",2020-01-10
+"$3,250/mo",2bds,1ba,10sqft,"Alcatraz Ave, Berkeley, CA 94703",2020-01-10
+"$2,450/mo",1bd,1ba,--sqft,"2703 Forest Ave APT 4, Berkeley, CA 94705",2020-01-10
+"$2,500/mo",1bd,1ba,700sqft,"Henry St, Berkeley, CA 94704",2020-01-10
+"$2,195/mo",1bd,1ba,475sqft,"Bonar St, Berkeley, CA 94702",2020-01-10
+"$1,995/mo",1bd,1ba,450sqft,"1625 Fairview St # B, Berkeley, CA 94703",2020-01-10
+"$4,995/mo",3bds,--ba,--sqft,"2430 Prospect St APT 302, Berkeley, CA 94704",2020-01-10
+"$2,699/mo",2bds,1ba,"1,000sqft","Curtis St, Berkeley, CA 94702",2020-01-10
+"$1,600/mo",Studio,1ba,227sqft,"3302 California St APT A, Berkeley, CA 94703",2020-01-10
+"$2,095/mo",1bd,1ba,625sqft,"1416 9th St APT C, Berkeley, CA 94710",2020-01-10
+"$1,895/mo",Studio,1ba,--sqft,"1321 Spruce St APT 09, Berkeley, CA 94709",2020-01-10
+"$1,950/mo",10bds,10ba,"8,160sqft","1341 University Ave, Berkeley, CA 94702",2020-01-10
+"$1,995/mo",Studio,1ba,--sqft,"2321 Dwight Way APT 203, Berkeley, CA 94704",2020-01-10
+"$2,400/mo",1bd,1ba,--sqft,"Virginia St, Berkeley, CA 94709",2020-01-10
+"$1,995/mo",Studio,1ba,400sqft,"2709 Dwight Way, Berkeley, CA 94704",2020-01-10
+"$9,500/mo",6bds,4.5ba,"4,112sqft","1033 Miller Ave # 0, Berkeley, CA 94708",2020-01-10
+"$2,095/mo",Studio,1ba,--sqft,"1810 Euclid Ave APT 15, Berkeley, CA 94709",2020-01-10
+"$3,999/mo",3bds,2ba,900sqft,"1014 Hearst Ave # 1, Berkeley, CA 94710",2020-01-10
+"$2,050/mo",1bd,1ba,575sqft,"1945 Berkeley Way APT 107, Berkeley, CA 94704",2020-01-10
+"$4,200/mo",3bds,1ba,--sqft,"2701 Ridge Roadla Loma Ave, Berkeley, CA 94709",2020-01-10
+"$3,400/mo",2bds,2ba,800sqft,"1930 Vine St APT 107, Berkeley, CA 94709",2020-01-10
+"$2,300/mo",1bd,1ba,720sqft,"2012 Grant St APT 1, Berkeley, CA 94703",2020-01-10
+"$2,630/mo",1bd,1ba,652sqft,"1569 Spruce St APT 6, Berkeley, CA 94709",2020-01-10
+"$1,835/mo",Studio,1ba,335sqft,"2632 Regent St APT C, Berkeley, CA 94704",2020-01-10
+"$2,100/mo",Studio,1ba,543sqft,"1829 Spruce St, Berkeley, CA 94709",2020-01-10

@@ -1,0 +1,20 @@
+price,type,bathrooms,size,address,date
+"$3,600/mo",3bds,1ba,"1,030sqft","3027 Harper St, Berkeley, CA 94703",2020-06-08
+"$1,600/mo",1bd,1ba,300sqft,"Addison St, Berkeley, CA 94702",2020-06-08
+"$2,595/mo",1bd,1ba,750sqft,"2434 Stuart St #A, Berkeley, CA 94705",2020-06-08
+"$3,300/mo",3bds,1ba,"1,000sqft","San Pablo Ave, Berkeley, CA 94702",2020-06-08
+"$2,675/mo",1bd,1ba,--sqft,"1888 Berkeley Way APT 211, Berkeley, CA 94703",2020-06-08
+"$3,600/mo",1bd,1ba,942sqft,"Bonita Ave, Berkeley, CA 94709",2020-06-08
+"$2,495/mo",Studio,1ba,620sqft,"Martin Luther King Jr Way, Berkeley, CA 94704",2020-06-08
+"$1,650+/mo",Studio,1ba,417sqft,"1816 Woolsey Street - 3, 3",2020-06-08
+"$2,400/mo",1bd,1ba,650sqft,"Virginia St, Berkeley, CA 94710",2020-06-08
+"$2,100/mo",Studio,1ba,--sqft,"1640 Euclid Ave #5, Berkeley, CA 94709",2020-06-08
+"$2,250/mo",1bd,1ba,600sqft,"2626 Etna St APT B, Berkeley, CA 94704",2020-06-08
+"$2,450/mo",2bds,1ba,750sqft,"1517 Francisco St APT 1, Berkeley, CA 94703",2020-06-08
+"$1,600/mo",Studio,1ba,--sqft,"2019 Delaware St #1, Berkeley, CA 94709",2020-06-08
+"$1,650/mo",Studio,1ba,260sqft,"2801 College Ave APT 19, Berkeley, CA 94705",2020-06-08
+"$2,100/mo",2bds,1ba,10sqft,"1955 Chestnut St APT 304, Berkeley, CA 94702",2020-06-08
+"$2,695/mo",1bd,1ba,650sqft,"Dwight Way, Berkeley, CA 94703",2020-06-08
+"$2,395/mo",2bds,1ba,750sqft,"1628 Ashby Ave APT D, Berkeley, CA 94703",2020-06-08
+"$1,595/mo",Studio,1ba,350sqft,"2441 Bonar St #2449B, Berkeley, CA 94702",2020-06-08
+"$1,750/mo",1bd,1ba,600sqft,"2110 Ashby Ave UNIT 4, Berkeley, CA 94705",2020-06-08

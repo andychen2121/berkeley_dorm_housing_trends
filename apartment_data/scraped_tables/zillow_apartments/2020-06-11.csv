@@ -1,0 +1,19 @@
+price,type,bathrooms,size,address,date
+"$1,200/mo",10bds,1ba,250sqft,"2631 Benvenue Ave, Berkeley, CA 94704",2020-06-11
+"$3,600/mo",2bds,1ba,"1,550sqft","1445 Oxford St #1445, Berkeley, CA 94709",2020-06-11
+"$1,875/mo",1bd,1ba,575sqft,"1621 Blake St APT 3, Berkeley, CA 94703",2020-06-11
+"$2,000/mo",1bd,1ba,400sqft,"2431 7th St #B, Berkeley, CA 94710",2020-06-11
+"$3,200/mo",1bd,1ba,831sqft,"Oxford St, Berkeley, CA 94709",2020-06-11
+"$2,950/mo",2bds,2ba,750sqft,"2124 Parker St #107, Berkeley, CA 94704",2020-06-11
+"$1,995/mo",1bd,1ba,--sqft,"1104 Chaucer St #1, Berkeley, CA 94702",2020-06-11
+"$1,595/mo",Studio,1ba,--sqft,"1609 Stuart St APT C, Berkeley, CA 94703",2020-06-11
+"$1,790/mo",1bd,1ba,900sqft,"2815 College Ave APT C, Berkeley, CA 94705",2020-06-11
+"$3,600/mo",1bd,1ba,820sqft,"3111 Eton Ave APT 3, Berkeley, CA 94705",2020-06-11
+"$2,450/mo",2bds,1ba,--sqft,"1411 Parker St APT 4, Berkeley, CA 94702",2020-06-11
+"$2,350/mo",2bds,1ba,650sqft,"Hearst Ave, Berkeley, CA 94703",2020-06-11
+"$4,250/mo",3bds,2ba,"1,165sqft","3 bed, 1165 sqft, $4,250, 302",2020-06-11
+"$1,895/mo",1bd,1ba,650sqft,"2115 Haste St #301, Berkeley, CA 94704",2020-06-11
+"$3,350/mo",3bds,1ba,--sqft,"1130 Bancroft Way APT A, Berkeley, CA 94702",2020-06-11
+"$2,450+/mo",2bds,1ba,--sqft,"2801 Telegraph Avenue - 2404, 2404",2020-06-11
+"$3,200/mo",2bds,1ba,--sqft,"1426 Martin Luther King Jr Way APT 3, Berkeley, CA 94709",2020-06-11
+"$2,650/mo",2bds,1ba,750sqft,"2172 Blake St APT 4, Berkeley, CA 94704",2020-06-11

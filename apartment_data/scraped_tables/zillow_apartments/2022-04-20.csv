@@ -1,0 +1,41 @@
+price,type,bathrooms,size,address,date
+"$2,850/mo",1bd,1ba,--sqft,"2635 Hillegass Ave APT 1, Berkeley, CA 94704",2022-04-20
+$999/mo,1bd,8ba,200sqft,"2338 Telegraph Ave, Berkeley, CA 94704",2022-04-20
+"$2,300/mo",1bd,1ba,500sqft,"1798 Walnut St #8, Berkeley, CA 94709",2022-04-20
+"$3,195+2 bds",,,,"2025 Francisco St. | 2025 Francisco St, Berkeley, CA",2022-04-20
+"$3,110+Studio","$3,667+1 bd",,,"Modera Berkeley | 2119 University Ave, Berkeley, CA",2022-04-20
+"$2,989+Studio","$3,294+1 bd","$4,079+2 bds","$6,214+3 bds","Sterling Berkeley Collection | 2116 Allston Way, Berkeley, CA",2022-04-20
+"$2,200/mo",1bd,1ba,"1,000sqft","2923 Wheeler St #D, Berkeley, CA 94705",2022-04-20
+"$2,650/mo",Studio,1ba,400sqft,"1525 Spruce Street, 1525 Spruce St APT 31, Berkeley, CA 94709",2022-04-20
+"$2,200/mo",1bd,1ba,650sqft,"2012 Grant St APT 1, Berkeley, CA 94703",2022-04-20
+"$2,800/mo",2bds,1ba,750sqft,"1902 Henry St #A, Berkeley, CA 94704",2022-04-20
+"$3,995/mo",3bds,2ba,"1,223sqft","(undisclosed Address), Berkeley, CA 94703",2022-04-20
+"$4,045/mo",2bds,2ba,750sqft,"2120 Grant St, Berkeley, CA 94703",2022-04-20
+"$1,950/mo",Studio,1ba,750sqft,"1662 Dwight Way #C, Berkeley, CA 94703",2022-04-20
+"$1,845+Studio","$3,195+2 bds",,,"2241 Durant Ave. | 2241 Durant Ave, Berkeley, CA",2022-04-20
+"$2,750/mo",2bds,1ba,700sqft,"2 bed, 1.0 bath, 700 sqft, $2,750, 2110 Bonar St APT 1, Berkeley, CA 94702",2022-04-20
+"$2,596+Studio","$3,559+2 bds","$4,776+3 bds","$7,135+5 bds","1122U | 1122 University Ave, Berkeley, CA",2022-04-20
+"$1,850/mo",Studio,1ba,300sqft,"1527 Julia St #A, Berkeley, CA 94703",2022-04-20
+"$3,600/mo",2bds,1ba,"1,200sqft","2 bed, 1200 sqft, $3,600, 1655 Hopkins St, Berkeley, CA 94707",2022-04-20
+"$2,595+Studio","$4,795+2 bds","$6,295+3 bds",,"The Granada | 2510 Bancroft Way, Berkeley, CA",2022-04-20
+"$2,521+Studio","$2,868+1 bd","$3,600+2 bds",,"Aquatic Fourth Street | 2010 5th St, Berkeley, CA",2022-04-20
+"$2,195/mo",1bd,1ba,550sqft,"1434 Russell St, Berkeley, CA 94702",2022-04-20
+"$2,950+Studio","$3,225+1 bd","$4,550+2 bds",,"Parker | 2038 Parker St, Berkeley, CA",2022-04-20
+"$2,300/mo",1bd,1ba,600sqft,"2115 Spaulding Ave #A, Berkeley, CA 94703",2022-04-20
+"$3,150+Studio","$3,635+1 bd",,,"The Addison | 1950 Addison St, Berkeley, CA",2022-04-20
+"$3,800/mo",3bds,1ba,900sqft,"1530 Henry St APT 6, Berkeley, CA 94709",2022-04-20
+"$3,850+3 bds",,,,"1530 Henry St, Berkeley, CA",2022-04-20
+"$2,751+Studio","$3,583+1 bd","$4,332+2 bds",,"Jones Berkeley | 1080 Jones St, Berkeley, CA",2022-04-20
+"$1,625+1 bd",,,,"1301 Gilman St, Albany, CA",2022-04-20
+"$2,039/mo",1bd,1ba,872sqft,"1 bed, 500 sqft, $1,850, 1515 Harmon St #1, Berkeley, CA 94703",2022-04-20
+"$3,063+Studio","$3,358+1 bd","$4,662+2 bds",,"Blake at Berkley | 2033 Blake St, Berkeley, CA",2022-04-20
+"$2,320+1 bd","$3,930+2 bds",,,"Avalon Berkeley | 651 Addison St, Berkeley, CA",2022-04-20
+"$4,490/mo",2bds,2ba,"1,250sqft","(undisclosed Address), Berkeley, CA 94702",2022-04-20
+"$4,500/mo",2bds,2ba,"1,110sqft","1324 Alcatraz Ave, Berkeley, CA 94702",2022-04-20
+"$2,395+1 bd","$2,995+2 bds","$4,195+3 bds","$6,595+4 bds","2540 Regent St. | 2540 Regent St, Berkeley, CA",2022-04-20
+"$3,039+1 bd","$4,301+2 bds",,,"The Dwight | 2121 Dwight Way, Berkeley, CA",2022-04-20
+"$2,836+Studio","$3,152+1 bd","$3,793+2 bds",,"Higby | 3015 San Pablo Ave, Berkeley, CA",2022-04-20
+"$1,800/mo",Studio,1ba,500sqft,"2129 Channing Way #B, Berkeley, CA 94704",2022-04-20
+"$3,300/mo",2bds,1ba,--sqft,"2401 Fulton St #2, Berkeley, CA 94704",2022-04-20
+"$2,739+Studio","$4,380+2 bds",,,"Aquatic Shattuck | 2640 Shattuck Ave, Berkeley, CA",2022-04-20
+"$4,500+2 bds",,,,"Telegraph Gardens | 3001 Telegraph Ave, Berkeley, CA",2022-04-20

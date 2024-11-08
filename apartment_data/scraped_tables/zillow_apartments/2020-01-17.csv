@@ -1,0 +1,21 @@
+price,type,bathrooms,size,address,date
+"$2,150/mo",Studio,1ba,400sqft,"2138 Center St, Berkeley, CA 94704",2020-01-17
+"$2,995/mo",2bds,1ba,750sqft,"Martin Luther King Jr Way, Berkeley, CA 94709",2020-01-17
+"$3,975/mo",3bds,1ba,"1,030sqft","1904 Russell St, Berkeley, CA 94703",2020-01-17
+"$2,395/mo",1bd,1ba,--sqft,"2712 Derby St APT 6, Berkeley, CA 94705",2020-01-17
+"$2,775/mo",2bds,1ba,760sqft,"3008 Dana St APT 2, Berkeley, CA 94705",2020-01-17
+"$3,595/mo",2bds,1ba,675sqft,"2442 Piedmont Ave APT 3, Berkeley, CA 94704",2020-01-17
+"$3,950/mo",2bds,2ba,"1,000sqft","1800 Spruce St APT 301, Berkeley, CA 94709",2020-01-17
+"$2,395/mo",2bds,1ba,--sqft,"2435 9th St APT 4, Berkeley, CA 94710",2020-01-17
+"$2,099/mo",Studio,1ba,400sqft,"2535 Regent St APT 10, Berkeley, CA 94704",2020-01-17
+"$1,900/mo",Studio,1ba,"12,346sqft","1650 Oxford St, Berkeley, CA 94709",2020-01-17
+"$2,795/mo",2bds,--ba,--sqft,"2227 Roosevelt Ave APT 2, Berkeley, CA 94703",2020-01-17
+"$2,100/mo",Studio,1ba,543sqft,"1829 Spruce St, Berkeley, CA 94709",2020-01-17
+"$2,750/mo",1bd,1ba,--sqft,"2526 Durant Ave UNIT 509, Berkeley, CA 94704",2020-01-17
+"$3,450/mo",3bds,1ba,--sqft,"1546 Spruce St # C, Berkeley, CA 94709",2020-01-17
+"$4,520/mo",2bds,1ba,--sqft,"1524 Milvia Street Milvia # 2, Berkeley, CA 94709",2020-01-17
+"$2,700/mo",2bds,1ba,--sqft,"Baker St, Berkeley, CA 94702",2020-01-17
+"$1,795/mo",1bd,--ba,"11,520sqft","2115 Haste St, Berkeley, CA 94704",2020-01-17
+"$2,650/mo",2bds,1ba,--sqft,"1409 Carleton St APT B, Berkeley, CA 94702",2020-01-17
+"$2,195/mo",1bd,1ba,700sqft,"Addison St, Berkeley, CA 94702",2020-01-17
+"$2,775/mo",1bd,1ba,700sqft,"N Valley St, Berkeley, CA 94702",2020-01-17

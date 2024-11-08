@@ -1,0 +1,27 @@
+price,type,bathrooms,size,address,date
+"$5,395/mo",3bds,2ba,"1,382sqft","1640 Walnut St APT A, Berkeley, CA 94709",2020-03-02
+"$7,100/mo",2bds,2.5ba,"1,256sqft","Berkeley Central, 2 Bedroom 2.5 Bath Penthouse",2020-03-02
+"$1,700/mo",Studio,1ba,"2,720sqft","2212 San Pablo Ave, Berkeley, CA 94702",2020-03-02
+"$3,600/mo",2bds,1ba,"1,100sqft","Walnut St, Berkeley, CA 94709",2020-03-02
+"$3,200/mo",1bd,1ba,943sqft,"1823 Spruce St # C, Berkeley, CA 94709",2020-03-02
+"$2,700/mo",2bds,2ba,800sqft,"1864 Alcatraz Ave, Berkeley, CA 94703",2020-03-02
+"$2,700/mo",2bds,1ba,"3,968sqft","2923 Otis St, Berkeley, CA 94703",2020-03-02
+"$4,995/mo",3bds,2ba,900sqft,"3 bed, 900 sqft, $4,995, 2",2020-03-02
+"$1,875/mo",Studio,1ba,200sqft,"2555 Virginia St APT 208, Berkeley, CA 94709",2020-03-02
+"$1,700/mo",Studio,3ba,350sqft,"1357 Northside Ave # B, Berkeley, CA 94702",2020-03-02
+"$2,150/mo",1bd,1ba,700sqft,"Hearst Ave, Berkeley, CA 94709",2020-03-02
+"$2,100/mo",1bd,1ba,550sqft,"2835 California St APT 3, Berkeley, CA 94703",2020-03-02
+"$4,195/mo",3bds,1ba,500sqft,"3 bed, $4,195, 203",2020-03-02
+"$1,935/mo",Studio,1ba,444sqft,"2610 Etna St APT 1, Berkeley, CA 94704",2020-03-02
+"$3,975/mo",3bds,1ba,"1,030sqft","1904 Russell St, Berkeley, CA 94703",2020-03-02
+"$2,590/mo",2bds,1ba,603sqft,"3216 Baker St, Berkeley, CA 94702",2020-03-02
+"$2,000/mo",1bd,1ba,700sqft,"Addison St, Berkeley, CA 94702",2020-03-02
+"$3,600/mo",1bd,1ba,"1,717sqft","2471 Cedar St, Berkeley, CA 94708",2020-03-02
+"$4,750/mo",2bds,2ba,"2,213sqft","2465 Hilgard Ave APT 1, Berkeley, CA 94709",2020-03-02
+"$2,795/mo",2bds,1ba,825sqft,"2208 Mcgee Ave APT 6, Berkeley, CA 94703",2020-03-02
+"$3,000/mo",2bds,1ba,750sqft,"1283 Berkeley Way # 1283, Berkeley, CA 94702",2020-03-02
+"$2,745/mo",1bd,1ba,675sqft,"1993 El Dorado Ave APT 3, Berkeley, CA 94707",2020-03-02
+"$2,450/mo",2bds,1ba,"2,470sqft","Carleton St, Berkeley, CA 94702",2020-03-02
+"$2,100/mo",Studio,1ba,600sqft,"1709 University Ave, Berkeley, CA 94703",2020-03-02
+"$3,800/mo",2bds,1ba,"1,000sqft","1118 Park Hills Rd # B, Berkeley, CA 94708",2020-03-02
+"$4,195/mo",3bds,1ba,--sqft,"2422 Grant St APT D, Berkeley, CA 94703",2020-03-02

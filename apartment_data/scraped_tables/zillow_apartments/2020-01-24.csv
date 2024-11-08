@@ -1,0 +1,21 @@
+price,type,bathrooms,size,address,date
+"$3,500/mo",2bds,1ba,625sqft,"1205 Peralta Ave # 3, Berkeley, CA 94706",2020-01-24
+"$1,270/mo",1bd,1ba,"1,200sqft","Private Rooms Available - 1407 8th Street, C",2020-01-24
+"$2,300/mo",2bds,--ba,--sqft,"2325 Woolsey St APT 16, Berkeley, CA 94705",2020-01-24
+"$2,650/mo",1bd,1ba,--sqft,"1910 Francisco St APT B, Berkeley, CA 94709",2020-01-24
+"$2,195/mo",1bd,1ba,--sqft,"1438 Alcatraz Ave APT A, Berkeley, CA 94702",2020-01-24
+"$1,950/mo",1bd,1ba,--sqft,"2914 Adeline St APT 2, Berkeley, CA 94703",2020-01-24
+"$3,000/mo",1bd,1ba,560sqft,"1519 Walnut St APT 4, Berkeley, CA 94709",2020-01-24
+"$2,700/mo",2bds,1ba,--sqft,"1733 Grant St APT F, Berkeley, CA 94703",2020-01-24
+"$1,995/mo",Studio,1ba,--sqft,"1602 Cedar St, Berkeley, CA 94703",2020-01-24
+"$2,595/mo",2bds,1ba,--sqft,"1536 Carleton St # A, Berkeley, CA 94703",2020-01-24
+"$1,995/mo",1bd,1ba,680sqft,"2000 Durant Ave, Berkeley, CA 94704",2020-01-24
+"$2,550/mo",1bd,1ba,800sqft,"40 Hill Rd # LOWERLEVEL, Berkeley, CA 94708",2020-01-24
+"$2,295/mo",1bd,1ba,500sqft,"1393 Berkeley Way, Berkeley, CA 94702",2020-01-24
+"$1,995/mo",1bd,1ba,650sqft,"1 bed, 1.0 bath, 650 sqft, $1,995, 5",2020-01-24
+"$4,299/mo",3bds,2ba,"1,750sqft","1818 63rd St, Berkeley, CA 94703",2020-01-24
+"$1,595/mo",Studio,1ba,320sqft,"2801 College Ave APT 1, Berkeley, CA 94705",2020-01-24
+"$3,000/mo",2bds,1ba,800sqft,"2246 8th St # A, Berkeley, CA 94710",2020-01-24
+"$2,900/mo",1bd,1ba,700sqft,"Benvenue Ave, Berkeley, CA 94705",2020-01-24
+"$2,400/mo",2bds,1ba,--sqft,"1643 62nd St # 2, Berkeley, CA 94703",2020-01-24
+"$2,200/mo",1bd,1ba,500sqft,"2314 10th St, Berkeley, CA 94710",2020-01-24

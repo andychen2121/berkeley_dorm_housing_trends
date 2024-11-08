@@ -1,0 +1,23 @@
+price,type,bathrooms,size,address,date
+"$1,850/mo",1bd,1ba,410sqft,"1 bed, 410 sqft, $1,850, 2331A Dwight Way",2020-05-24
+"$2,795/mo",1bd,1ba,650sqft,"1844 Dwight Way, Berkeley, CA 94703",2020-05-24
+"$2,795/mo",1bd,1ba,650sqft,"Dwight Way, Berkeley, CA 94703",2020-05-24
+"$3,000/mo",2bds,1ba,--sqft,"Piedmont Ave, Berkeley, CA 94704",2020-05-24
+"$5,000/mo",4bds,2ba,980sqft,"2414 Dana St APT 2, Berkeley, CA 94704",2020-05-24
+"$4,000/mo",3bds,1ba,920sqft,"3 bed, 920 sqft, $4,000, 1",2020-05-24
+"$2,400/mo",2bds,1ba,504sqft,"2109 Shattuck Ave APT 306, Berkeley, CA 94704",2020-05-24
+"$2,300/mo",1bd,1ba,564sqft,"1 bed, 564 sqft, $2,300, A",2020-05-24
+"$2,900/mo",1bd,1ba,--sqft,"3000 Telegraph Ave, Berkeley, CA 94705",2020-05-24
+"$2,700/mo",1bd,1ba,799sqft,"2712 Derby St APT 4, Berkeley, CA 94705",2020-05-24
+"$4,100/mo",3bds,2ba,"2,568sqft","2216 Martin Luther King Jr Way, Berkeley, CA 94704",2020-05-24
+"$3,795/mo",2bds,1ba,800sqft,"1911-1913 Berryman St #1911A, Berkeley, CA 94709",2020-05-24
+"$4,995/mo",2bds,1ba,"1,278sqft","1850 Arch St APT 4, Berkeley, CA 94709",2020-05-24
+"$1,350/mo",Studio,1ba,220sqft,"2218 Jefferson Ave #A, Berkeley, CA 94703",2020-05-24
+"$2,450/mo",1bd,1ba,575sqft,"2427 Mckinley Ave APT 3, Berkeley, CA 94703",2020-05-24
+"$3,595/mo",2bds,1ba,845sqft,"1862 Arch St #6, Berkeley, CA 94709",2020-05-24
+"$1,599/mo",Studio,1ba,450sqft,"Curtis St, Berkeley, CA 94702",2020-05-24
+"$1,795/mo",1bd,1ba,750sqft,"1611 Mcgee Ave APT 3, Berkeley, CA 94703",2020-05-24
+"$2,950/mo",2bds,2ba,750sqft,"2124 Parker St #307, Berkeley, CA 94704",2020-05-24
+"$2,695/mo",1bd,1ba,--sqft,"2240 Blake St APT 203, Berkeley, CA 94704",2020-05-24
+"$2,800/mo",2bds,1ba,"9,632sqft","2319 College Ave., 2319 College Ave",2020-05-24
+"$2,950/mo",2bds,1ba,625sqft,"2601 College Ave APT 106, Berkeley, CA 94704",2020-05-24

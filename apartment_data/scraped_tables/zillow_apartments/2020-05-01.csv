@@ -1,0 +1,17 @@
+price,type,bathrooms,size,address,date
+"$2,100/mo",1bd,1ba,520sqft,"1315 Dwight Way #A, Berkeley, CA 94702",2020-05-01
+"$2,850/mo",2bds,1ba,700sqft,"2110 Bonar St, Berkeley, CA 94702",2020-05-01
+"$1,995/mo",1bd,1ba,640sqft,"2521 Piedmont Ave APT 10, Berkeley, CA 94704",2020-05-01
+"$3,295/mo",2bds,1ba,700sqft,"2 bed, 700 sqft, $3,295, 3",2020-05-01
+"$2,900/mo",2bds,1ba,--sqft,"1327 Martin Luther King Jr Way APT 1, Berkeley, CA 94709",2020-05-01
+"$4,200/mo",3bds,2ba,"2,435sqft","1063 Sierra St, Berkeley, CA 94707",2020-05-01
+"$2,500/mo",1bd,1ba,682sqft,"Le Conte Ave, Berkeley, CA 94709",2020-05-01
+"$1,695/mo",Studio,1ba,"5,728sqft","2325 Channing Way, Berkeley, CA 94704",2020-05-01
+"$2,750/mo",1bd,1ba,375sqft,"1211 Talbot Ave #A, Berkeley, CA 94706",2020-05-01
+"$2,195/mo",1bd,1ba,640sqft,"2520 Regent St #4, Berkeley, CA 94704",2020-05-01
+"$1,680/mo",1bd,1ba,320sqft,"Los Angeles Ave, Berkeley, CA 94707",2020-05-01
+"$2,550/mo",1bd,1ba,650sqft,"1318 Josephine St #B, Berkeley, CA 94703",2020-05-01
+"$1,950/mo",1bd,1ba,600sqft,"2735 Regent St APT 4, Berkeley, CA 94705",2020-05-01
+"$3,450/mo",2bds,1ba,940sqft,"2942 Hillegass Ave, Berkeley, CA 94705",2020-05-01
+"$2,695/mo",2bds,1ba,750sqft,"2235 Ashby Ave APT 303, Berkeley, CA 94705",2020-05-01
+"$3,600/mo",2bds,1ba,"1,000sqft","1118 Park Hills Rd #B, Berkeley, CA 94708",2020-05-01

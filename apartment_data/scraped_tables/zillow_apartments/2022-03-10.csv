@@ -1,0 +1,41 @@
+price,type,bathrooms,size,address,date
+"$4,850/mo",3bds,1.5ba,"1,150sqft","1912 Rose St #A, Berkeley, CA 94709",2022-03-10
+"$2,200/mo",1bd,1ba,410sqft,"3030 Regent St #4, Berkeley, CA 94705",2022-03-10
+"$3,600/mo",1bd,1ba,820sqft,"3111 Eton Ave APT 3, Berkeley, CA 94705",2022-03-10
+"$2,795/mo",1bd,1ba,700sqft,"1197 Euclid Ave APT D, Berkeley, CA 94708",2022-03-10
+"$3,875/mo",3bds,2ba,"1,000sqft","3411O Adeline St #4, Berkeley, CA 94703",2022-03-10
+"$2,595/mo",2bds,1ba,"9,408sqft","3380 Adeline St, Berkeley, CA 94703",2022-03-10
+"$2,836+Studio","$3,152+1 bd","$3,946+2 bds",,"Higby | 3015 San Pablo Ave, Berkeley, CA",2022-03-10
+"$3,300+Studio","$3,920+1 bd",,,"2530 Shattuck Ave, Berkeley, CA",2022-03-10
+"$4,400+2 bds",,,,"Aquatic Shattuck | 2640 Shattuck Ave, Berkeley, CA",2022-03-10
+"$3,222+1 bd",,,,"The Dwight | 2121 Dwight Way, Berkeley, CA",2022-03-10
+"$3,300/mo",2bds,1ba,846sqft,"2 bed, 846 sqft, $2,700, 1950 Rose St #3, Berkeley, CA 94709",2022-03-10
+"$2,695+Studio","$3,395+1 bd","$3,750+2 bds",,"1812 University Avenue | 1812 University Ave, Berkeley, CA",2022-03-10
+"$2,560+Studio","$2,830+1 bd","$3,572+2 bds",,"Aquatic Fourth Street | 2010 5th St, Berkeley, CA",2022-03-10
+"$3,995/mo",3bds,1ba,--sqft,"2620 College Ave #2, Berkeley, CA 94704",2022-03-10
+"$2,750+2 bds",,,,"2610 Hillegass Ave, Berkeley, CA",2022-03-10
+"$3,995/mo",3bds,1ba,820sqft,"2617 Hillegass Ave APT 1A, Berkeley, CA 94704",2022-03-10
+"$1,695+Studio","$2,595+1 bd","$3,295+2 bds",,"2539 Durant Ave, Berkeley, CA",2022-03-10
+"$2,995/mo",2bds,1ba,--sqft,"2239 Channing Way #104, Berkeley, CA 94704",2022-03-10
+"$1,195/mo",1bd,1ba,--sqft,"1639 Josephine St ROOM 2, Berkeley, CA 94703",2022-03-10
+"$8,995/mo",5bds,3ba,"2,200sqft","5 bed, 2200 sqft, $9,495, 2222 Dwight Way APT 4, Berkeley, CA 94704",2022-03-10
+"$2,350/mo",1bd,1ba,--sqft,"1244 Hearst Ave APT 4, Berkeley, CA 94702",2022-03-10
+"$2,989+Studio","$2,679+1 bd","$3,914+2 bds","$5,514+3 bds","Sterling Berkeley Collection | 1916 Oxford St, Berkeley, CA",2022-03-10
+"$2,811+Studio","$3,667+1 bd","$3,575+2 bds",,"Modera Berkeley | 2119 University Ave, Berkeley, CA",2022-03-10
+"$3,895/mo",3bds,1ba,--sqft,"1713 Martin Luther King Jr Way APT B, Berkeley, CA 94709",2022-03-10
+"$2,596+Studio","$3,559+2 bds","$4,776+3 bds","$7,135+5 bds","1122U | 1122 University Ave, Berkeley, CA",2022-03-10
+"$2,500/mo",Studio,1ba,500sqft,"2410 Russell St APT A, Berkeley, CA 94705",2022-03-10
+"$2,620+1 bd",,,,"Avalon Berkeley | 651 Addison St, Berkeley, CA",2022-03-10
+"$3,459+2 bds",,,,"Hillside Village | 1801 Shattuck Ave, Berkeley, CA",2022-03-10
+"$2,730+Studio","$3,768+1 bd","$4,464+2 bds",,"Jones Berkeley | 1080 Jones St, Berkeley, CA",2022-03-10
+"$3,063+Studio","$3,333+1 bd","$4,638+2 bds",,"Blake at Berkley | 2033 Blake St, Berkeley, CA",2022-03-10
+"$3,753+1 bd","$3,739+2 bds",,,"Berkeley Central | 2055 Center St, Berkeley, CA",2022-03-10
+"$2,950+Studio","$3,225+1 bd","$4,550+2 bds",,"Parker | 2038 Parker St, Berkeley, CA",2022-03-10
+"$2,495/mo",2bds,1ba,900sqft,"2 bed, 900 sqft, $2,495, 1533 Harmon St APT A, Berkeley, CA 94703",2022-03-10
+"$1,695/mo",1bd,1ba,--sqft,"2313 Roosevelt Ave APT 1, Berkeley, CA 94703",2022-03-10
+"$2,275+Studio","$2,695+1 bd","$3,695+2 bds",,"Addison Arts Apartments | 1935 Addison St, Berkeley, CA",2022-03-10
+"$3,750/mo",2bds,1ba,"1,100sqft","1400 67th St, Berkeley, CA 94702",2022-03-10
+"$1,775+1 bd",,,,"1301 Gilman St, Albany, CA",2022-03-10
+"$2,550/mo",2bds,1ba,600sqft,"3130 College Ave APT A, Berkeley, CA 94705",2022-03-10
+"$2,595/mo",2bds,1ba,900sqft,"2007 Haste St, Berkeley, CA 94704",2022-03-10
+"$2,195+1 bd","$2,695+2 bds",,,"Hopkins Park | 1260 Hopkins St, Berkeley, CA",2022-03-10
